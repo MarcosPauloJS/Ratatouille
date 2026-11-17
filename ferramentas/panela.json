@@ -1,0 +1,1989 @@
+{
+ "ingredientes": {
+  "acorn": {
+   "prefab": "acorn",
+   "n": "Noz de vidoeiro",
+   "tags": {
+    "seed": 1
+   }
+  },
+  "acorn_cooked": {
+   "prefab": "acorn_cooked",
+   "n": "Noz de vidoeiro assada",
+   "tags": {
+    "seed": 1
+   }
+  },
+  "ancientfruit_nightvision": {
+   "prefab": "ancientfruit_nightvision",
+   "n": "Baga Noturna",
+   "tags": {
+    "fruit": 1
+   }
+  },
+  "ancientfruit_nightvision_cooked": {
+   "prefab": "ancientfruit_nightvision_cooked",
+   "n": "Baga Noturna Cozida",
+   "tags": {
+    "fruit": 1
+   }
+  },
+  "asparagus": {
+   "prefab": "asparagus",
+   "n": "Aspargo",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "asparagus_cooked": {
+   "prefab": "asparagus_cooked",
+   "n": "Aspargo Assado",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "barnacle": {
+   "prefab": "barnacle",
+   "n": "Cracas",
+   "tags": {
+    "meat": 0.25,
+    "fish": 0.25
+   }
+  },
+  "barnacle_cooked": {
+   "prefab": "barnacle_cooked",
+   "n": "Cracas Cozidas",
+   "tags": {
+    "meat": 0.25,
+    "fish": 0.25
+   }
+  },
+  "batnose": {
+   "prefab": "batnose",
+   "n": "Narinas-Peladas",
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "batnose_cooked": {
+   "prefab": "batnose_cooked",
+   "n": "Narinas Tostadas",
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "batnose_dried": {
+   "prefab": "batnose_dried",
+   "n": null,
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "batwing": {
+   "prefab": "batwing",
+   "n": "Asa de morcegolisco",
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "batwing_cooked": {
+   "prefab": "batwing_cooked",
+   "n": "Asa de morcegolisco cozida",
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "berries": {
+   "prefab": "berries",
+   "n": "Bagas",
+   "tags": {
+    "fruit": 0.5
+   }
+  },
+  "berries_cooked": {
+   "prefab": "berries_cooked",
+   "n": "Bagas assadas",
+   "tags": {
+    "fruit": 0.5
+   }
+  },
+  "berries_juicy": {
+   "prefab": "berries_juicy",
+   "n": "Bagas suculentas",
+   "tags": {
+    "fruit": 0.5
+   }
+  },
+  "berries_juicy_cooked": {
+   "prefab": "berries_juicy_cooked",
+   "n": "Bagas suculentas assadas",
+   "tags": {
+    "fruit": 0.5
+   }
+  },
+  "bird_egg": {
+   "prefab": "bird_egg",
+   "n": "Ovo",
+   "tags": {
+    "egg": 1
+   }
+  },
+  "bird_egg_cooked": {
+   "prefab": "bird_egg_cooked",
+   "n": "Ovo cozido",
+   "tags": {
+    "egg": 1
+   }
+  },
+  "blue_cap": {
+   "prefab": "blue_cap",
+   "n": "Cogumelo azul",
+   "tags": {
+    "veggie": 0.5
+   }
+  },
+  "blue_cap_cooked": {
+   "prefab": "blue_cap_cooked",
+   "n": "Cogumelo azul cozido",
+   "tags": {
+    "veggie": 0.5
+   }
+  },
+  "boneshard": {
+   "prefab": "boneshard",
+   "n": "Fragmentos de osso",
+   "tags": {
+    "inedible": 1
+   }
+  },
+  "butter": {
+   "prefab": "butter",
+   "n": "Manteiga",
+   "tags": {
+    "dairy": 1,
+    "fat": 1
+   }
+  },
+  "butterflywings": {
+   "prefab": "butterflywings",
+   "n": "Asas de borboleta",
+   "tags": {
+    "decoration": 2
+   }
+  },
+  "cactus_flower": {
+   "prefab": "cactus_flower",
+   "n": "Flor de cacto",
+   "tags": {
+    "veggie": 0.5
+   }
+  },
+  "cactus_meat": {
+   "prefab": "cactus_meat",
+   "n": "Carne de cacto",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "cactus_meat_cooked": {
+   "prefab": "cactus_meat_cooked",
+   "n": "Carne de cacto assada",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "carrot": {
+   "prefab": "carrot",
+   "n": "Cenoura",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "carrot_cooked": {
+   "prefab": "carrot_cooked",
+   "n": "Cenoura assada",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "cave_banana": {
+   "prefab": "cave_banana",
+   "n": "Banana",
+   "tags": {
+    "fruit": 1
+   }
+  },
+  "cave_banana_cooked": {
+   "prefab": "cave_banana_cooked",
+   "n": "Banana cozida",
+   "tags": {
+    "fruit": 1
+   }
+  },
+  "corn": {
+   "prefab": "corn",
+   "n": "Milho",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "corn_cooked": {
+   "prefab": "corn_cooked",
+   "n": "Pipoca",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "cutlichen": {
+   "prefab": "cutlichen",
+   "n": "Líquen",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "cutlichen_cooked": {
+   "prefab": "cutlichen_cooked",
+   "n": null,
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "dragonfruit": {
+   "prefab": "dragonfruit",
+   "n": "Pitaia",
+   "tags": {
+    "fruit": 1
+   }
+  },
+  "dragonfruit_cooked": {
+   "prefab": "dragonfruit_cooked",
+   "n": "Pitaia preparada",
+   "tags": {
+    "fruit": 1
+   }
+  },
+  "drumstick": {
+   "prefab": "drumstick",
+   "n": "Coxinha",
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "drumstick_cooked": {
+   "prefab": "drumstick_cooked",
+   "n": "Coxa frita",
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "durian": {
+   "prefab": "durian",
+   "n": "Dúrio",
+   "tags": {
+    "monster": 1,
+    "fruit": 1
+   }
+  },
+  "durian_cooked": {
+   "prefab": "durian_cooked",
+   "n": "Dúrio muito fedido",
+   "tags": {
+    "monster": 1,
+    "fruit": 1
+   }
+  },
+  "eel": {
+   "prefab": "eel",
+   "n": "Enguia",
+   "tags": {
+    "meat": 0.5,
+    "fish": 1
+   }
+  },
+  "eel_cooked": {
+   "prefab": "eel_cooked",
+   "n": "Enguia assada",
+   "tags": {
+    "fish": 1,
+    "meat": 0.5
+   }
+  },
+  "egg": {
+   "prefab": "egg",
+   "n": null,
+   "tags": {
+    "egg": 1
+   }
+  },
+  "egg_cooked": {
+   "prefab": "egg_cooked",
+   "n": null,
+   "tags": {
+    "egg": 1
+   }
+  },
+  "eggplant": {
+   "prefab": "eggplant",
+   "n": "Berinjela",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "eggplant_cooked": {
+   "prefab": "eggplant_cooked",
+   "n": "Berinjela refogada",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "fig": {
+   "prefab": "fig",
+   "n": "Figo",
+   "tags": {
+    "fruit": 0.5
+   }
+  },
+  "fig_cooked": {
+   "prefab": "fig_cooked",
+   "n": "Figo Cozido",
+   "tags": {
+    "fruit": 0.5
+   }
+  },
+  "firenettles_dried": {
+   "prefab": "firenettles_dried",
+   "n": "Fronde de Urtigardentes Secas",
+   "tags": {
+    "decoration": 1
+   }
+  },
+  "fish": {
+   "prefab": "fish",
+   "n": "Peixe",
+   "tags": {
+    "meat": 1,
+    "fish": 1
+   }
+  },
+  "fish_cooked": {
+   "prefab": "fish_cooked",
+   "n": "Peixe cozido",
+   "tags": {
+    "fish": 1,
+    "meat": 1
+   }
+  },
+  "fishmeat": {
+   "prefab": "fishmeat",
+   "n": "Peixe cru",
+   "tags": {
+    "meat": 1,
+    "fish": 1
+   }
+  },
+  "fishmeat_cooked": {
+   "prefab": "fishmeat_cooked",
+   "n": "Filé de peixe",
+   "tags": {
+    "fish": 1,
+    "meat": 1
+   }
+  },
+  "fishmeat_dried": {
+   "prefab": "fishmeat_dried",
+   "n": "Peixe Seco",
+   "tags": {
+    "meat": 1,
+    "fish": 1
+   }
+  },
+  "fishmeat_small": {
+   "prefab": "fishmeat_small",
+   "n": "Naco de peixe",
+   "tags": {
+    "meat": 0.5,
+    "fish": 0.5
+   }
+  },
+  "fishmeat_small_cooked": {
+   "prefab": "fishmeat_small_cooked",
+   "n": "Naco peixe cozido",
+   "tags": {
+    "fish": 0.5,
+    "meat": 0.5
+   }
+  },
+  "fishmeat_small_dried": {
+   "prefab": "fishmeat_small_dried",
+   "n": "Peixe Seco Pequeno",
+   "tags": {
+    "meat": 0.5,
+    "fish": 0.5
+   }
+  },
+  "foliage_dried": {
+   "prefab": "foliage_dried",
+   "n": "Folhagem Seca",
+   "tags": {
+    "decoration": 1
+   }
+  },
+  "forgetmelots": {
+   "prefab": "forgetmelots",
+   "n": "Vê-Se-Me-Esquece",
+   "tags": {
+    "decoration": 1
+   }
+  },
+  "forgetmelots_dried": {
+   "prefab": "forgetmelots_dried",
+   "n": "Vê-Se-Me-Esquece Seca",
+   "tags": {
+    "decoration": 1
+   }
+  },
+  "froglegs": {
+   "prefab": "froglegs",
+   "n": "Pernas de sapo",
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "froglegs_cooked": {
+   "prefab": "froglegs_cooked",
+   "n": "Pernas de sapo assadas",
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "garlic": {
+   "prefab": "garlic",
+   "n": "Alho",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "garlic_cooked": {
+   "prefab": "garlic_cooked",
+   "n": "Alho Assado",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "goatmilk": {
+   "prefab": "goatmilk",
+   "n": "Leite elétrico",
+   "tags": {
+    "dairy": 1
+   }
+  },
+  "green_cap": {
+   "prefab": "green_cap",
+   "n": "Cogumelo verde",
+   "tags": {
+    "veggie": 0.5
+   }
+  },
+  "green_cap_cooked": {
+   "prefab": "green_cap_cooked",
+   "n": "Cogumelo verde assado",
+   "tags": {
+    "veggie": 0.5
+   }
+  },
+  "honey": {
+   "prefab": "honey",
+   "n": "Mel",
+   "tags": {
+    "sweetener": 1
+   }
+  },
+  "honey_cooked": {
+   "prefab": "honey_cooked",
+   "n": null,
+   "tags": {
+    "sweetener": 1
+   }
+  },
+  "honeycomb": {
+   "prefab": "honeycomb",
+   "n": "Favo de mel",
+   "tags": {
+    "sweetener": 1
+   }
+  },
+  "honeycomb_cooked": {
+   "prefab": "honeycomb_cooked",
+   "n": null,
+   "tags": {
+    "sweetener": 1
+   }
+  },
+  "ice": {
+   "prefab": "ice",
+   "n": "Gelo",
+   "tags": {
+    "frozen": 1
+   }
+  },
+  "kelp": {
+   "prefab": "kelp",
+   "n": "Frondes de Alga",
+   "tags": {
+    "veggie": 0.5
+   }
+  },
+  "kelp_cooked": {
+   "prefab": "kelp_cooked",
+   "n": "Frondes de Alga Cozidas",
+   "tags": {
+    "veggie": 0.5
+   }
+  },
+  "kelp_dried": {
+   "prefab": "kelp_dried",
+   "n": "Frondes de Alga Secas",
+   "tags": {
+    "veggie": 0.5
+   }
+  },
+  "lightninggoathorn": {
+   "prefab": "lightninggoathorn",
+   "n": "Chifre de bode elétrico",
+   "tags": {
+    "inedible": 1
+   }
+  },
+  "mandrake": {
+   "prefab": "mandrake",
+   "n": "Mandrágora",
+   "tags": {
+    "magic": 1,
+    "veggie": 1
+   }
+  },
+  "mandrake_cooked": {
+   "prefab": "mandrake_cooked",
+   "n": null,
+   "tags": {
+    "veggie": 1,
+    "magic": 1
+   }
+  },
+  "meat": {
+   "prefab": "meat",
+   "n": "Carne",
+   "tags": {
+    "meat": 1
+   }
+  },
+  "meat_cooked": {
+   "prefab": "cookedmeat",
+   "n": "Carne assada",
+   "tags": {
+    "meat": 1
+   }
+  },
+  "meat_dried": {
+   "prefab": "meat_dried",
+   "n": "Charque",
+   "tags": {
+    "meat": 1
+   }
+  },
+  "milkywhites": {
+   "prefab": "milkywhites",
+   "n": "Gosma Leitosa",
+   "tags": {
+    "dairy": 1
+   }
+  },
+  "mitegland": {
+   "prefab": "mitegland",
+   "n": "Glândula de Calor",
+   "tags": {
+    "meat": 0.5,
+    "monster": 0.5
+   }
+  },
+  "mitegland_cooked": {
+   "prefab": "mitegland_cooked",
+   "n": "Glândula de Calor Cozida",
+   "tags": {
+    "monster": 0.5,
+    "meat": 0.5
+   }
+  },
+  "mole": {
+   "prefab": "mole",
+   "n": "Verme toupeira",
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "monstermeat": {
+   "prefab": "monstermeat",
+   "n": "Carne de monstro",
+   "tags": {
+    "meat": 1,
+    "monster": 1
+   }
+  },
+  "monstermeat_cooked": {
+   "prefab": "cookedmonstermeat",
+   "n": "Carne de monstro cozida",
+   "tags": {
+    "monster": 1,
+    "meat": 1
+   }
+  },
+  "monstermeat_dried": {
+   "prefab": "monstermeat_dried",
+   "n": "Charque de monstro",
+   "tags": {
+    "meat": 1,
+    "monster": 1
+   }
+  },
+  "moon_cap": {
+   "prefab": "moon_cap",
+   "n": "Cogumelo Lunar",
+   "tags": {
+    "veggie": 0.5
+   }
+  },
+  "moon_cap_cooked": {
+   "prefab": "moon_cap_cooked",
+   "n": "Cogumelo Lunar Cozido",
+   "tags": {
+    "veggie": 0.5
+   }
+  },
+  "moon_tree_blossom_dried": {
+   "prefab": "moon_tree_blossom_dried",
+   "n": "Flor de Árvore Lunar Seca",
+   "tags": {
+    "decoration": 1
+   }
+  },
+  "moonbutterflywings": {
+   "prefab": "moonbutterflywings",
+   "n": "Asas de Mariposa da Lua",
+   "tags": {
+    "decoration": 2
+   }
+  },
+  "nightmarefuel": {
+   "prefab": "nightmarefuel",
+   "n": "Combustível de pesadelo",
+   "tags": {
+    "magic": 1,
+    "inedible": 1
+   }
+  },
+  "onion": {
+   "prefab": "onion",
+   "n": "Cebola",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "onion_cooked": {
+   "prefab": "onion_cooked",
+   "n": "Cebola Assada",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "pepper": {
+   "prefab": "pepper",
+   "n": "Pimentinha",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "pepper_cooked": {
+   "prefab": "pepper_cooked",
+   "n": "Pimenta Assada",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "petals_dried": {
+   "prefab": "petals_dried",
+   "n": "Pétalas Secas",
+   "tags": {
+    "decoration": 1
+   }
+  },
+  "petals_evil_dried": {
+   "prefab": "petals_evil_dried",
+   "n": "Pétalas Negras Secas",
+   "tags": {
+    "decoration": 1,
+    "magic": 0.5
+   }
+  },
+  "plantmeat": {
+   "prefab": "plantmeat",
+   "n": "Carne folhosa",
+   "tags": {
+    "meat": 1
+   }
+  },
+  "plantmeat_cooked": {
+   "prefab": "plantmeat_cooked",
+   "n": "Carne folhosa cozida",
+   "tags": {
+    "meat": 1
+   }
+  },
+  "pomegranate": {
+   "prefab": "pomegranate",
+   "n": "Romã",
+   "tags": {
+    "fruit": 1
+   }
+  },
+  "pomegranate_cooked": {
+   "prefab": "pomegranate_cooked",
+   "n": "Romã cortada",
+   "tags": {
+    "fruit": 1
+   }
+  },
+  "pondeel": {
+   "prefab": "pondeel",
+   "n": "Enguia Viva",
+   "tags": {
+    "meat": 0.5,
+    "fish": 1
+   }
+  },
+  "pondeel_cooked": {
+   "prefab": "pondeel_cooked",
+   "n": null,
+   "tags": {
+    "fish": 1,
+    "meat": 0.5
+   }
+  },
+  "pondfish": {
+   "prefab": "pondfish",
+   "n": "Peixe de Água Doce",
+   "tags": {
+    "meat": 0.5,
+    "fish": 0.5
+   }
+  },
+  "potato": {
+   "prefab": "potato",
+   "n": "Batata",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "potato_cooked": {
+   "prefab": "potato_cooked",
+   "n": "Batata Torrada",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "pumpkin": {
+   "prefab": "pumpkin",
+   "n": "Abóbora",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "pumpkin_cooked": {
+   "prefab": "pumpkin_cooked",
+   "n": "Abóbora quente",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "red_cap": {
+   "prefab": "red_cap",
+   "n": "Cogumelo vermelho",
+   "tags": {
+    "veggie": 0.5
+   }
+  },
+  "red_cap_cooked": {
+   "prefab": "red_cap_cooked",
+   "n": "Cogumelo vermelho assado",
+   "tags": {
+    "veggie": 0.5
+   }
+  },
+  "refined_dust": {
+   "prefab": "refined_dust",
+   "n": "Poeira Coletada",
+   "tags": {
+    "decoration": 2
+   }
+  },
+  "rock_avocado_fruit_ripe": {
+   "prefab": "rock_avocado_fruit_ripe",
+   "n": "Fruta Rochosa Madura",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "rock_avocado_fruit_ripe_cooked": {
+   "prefab": "rock_avocado_fruit_ripe_cooked",
+   "n": "Fruta Rochosa Cozida",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "royal_jelly": {
+   "prefab": "royal_jelly",
+   "n": "Goma real",
+   "tags": {
+    "sweetener": 3
+   }
+  },
+  "royal_jelly_cooked": {
+   "prefab": "royal_jelly_cooked",
+   "n": null,
+   "tags": {
+    "sweetener": 3
+   }
+  },
+  "smallmeat": {
+   "prefab": "smallmeat",
+   "n": "Naco de carne",
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "smallmeat_cooked": {
+   "prefab": "cookedsmallmeat",
+   "n": "Naco cozido",
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "smallmeat_dried": {
+   "prefab": "smallmeat_dried",
+   "n": "Charque pequeno",
+   "tags": {
+    "meat": 0.5
+   }
+  },
+  "succulent_picked_dried": {
+   "prefab": "succulent_picked_dried",
+   "n": "Suculenta Seca",
+   "tags": {
+    "decoration": 1
+   }
+  },
+  "tallbirdegg": {
+   "prefab": "tallbirdegg",
+   "n": "Ovo de passaralto",
+   "tags": {
+    "egg": 4
+   }
+  },
+  "tallbirdegg_cooked": {
+   "prefab": "tallbirdegg_cooked",
+   "n": "Ovo de passaralto cozido",
+   "tags": {
+    "egg": 4
+   }
+  },
+  "tillweed_dried": {
+   "prefab": "tillweed_dried",
+   "n": "Araderva Seca",
+   "tags": {
+    "decoration": 1
+   }
+  },
+  "tomato": {
+   "prefab": "tomato",
+   "n": "Raiz de toma",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "tomato_cooked": {
+   "prefab": "tomato_cooked",
+   "n": "Raiz de Tomate Assado",
+   "tags": {
+    "veggie": 1
+   }
+  },
+  "trunk_cooked": {
+   "prefab": "trunk_cooked",
+   "n": "Filé de tromba de coalafante",
+   "tags": {
+    "meat": 1
+   }
+  },
+  "trunk_summer": {
+   "prefab": "trunk_summer",
+   "n": "Tromba de coalafante",
+   "tags": {
+    "meat": 1
+   }
+  },
+  "trunk_winter": {
+   "prefab": "trunk_winter",
+   "n": "Tromba de coalafante invernal",
+   "tags": {
+    "meat": 1
+   }
+  },
+  "twigs": {
+   "prefab": "twigs",
+   "n": "Gravetos",
+   "tags": {
+    "inedible": 1
+   }
+  },
+  "watermelon": {
+   "prefab": "watermelon",
+   "n": "Melancia",
+   "tags": {
+    "fruit": 1
+   }
+  },
+  "watermelon_cooked": {
+   "prefab": "watermelon_cooked",
+   "n": "Churrasco de melancia",
+   "tags": {
+    "fruit": 1
+   }
+  },
+  "wobster_sheller_land": {
+   "prefab": "wobster_sheller_land",
+   "n": "Lagosta",
+   "tags": {
+    "meat": 1,
+    "fish": 1
+   }
+  },
+  "wormlight": {
+   "prefab": "wormlight",
+   "n": "Baga cintilante",
+   "tags": {
+    "fruit": 1
+   }
+  },
+  "wormlight_lesser": {
+   "prefab": "wormlight_lesser",
+   "n": "Baga menos cintilante",
+   "tags": {
+    "fruit": 0.5
+   }
+  },
+  "wx78_foodbrick": {
+   "prefab": "wx78_foodbrick",
+   "n": "Nutrijolo",
+   "tags": {
+    "inedible": 1
+   }
+  }
+ },
+ "apelidos": {
+  "cookedsmallmeat": "smallmeat_cooked",
+  "cookedmonstermeat": "monstermeat_cooked",
+  "cookedmeat": "meat_cooked"
+ },
+ "panela": {
+  "surfnturf": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "tags.meat and tags.meat >= 2.5 and tags.fish and tags.fish >= 1.5 and not tags.frozen",
+   "js": "tags.meat && tags.meat >= 2.5 && tags.fish && tags.fish >= 1.5 && ! tags.frozen"
+  },
+  "leafymeatsouffle": {
+   "pr": 50,
+   "peso": 1,
+   "lua": "((names.plantmeat or 0) + (names.plantmeat_cooked or 0) >= 2 )\n                    and tags.sweetener and tags.sweetener >= 2",
+   "js": "((names.plantmeat || 0) + (names.plantmeat_cooked || 0) >= 2 ) && tags.sweetener && tags.sweetener >= 2"
+  },
+  "barnaclesushi": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "(names.barnacle or names.barnacle_cooked)\n            \t\tand (names.kelp or names.kelp_cooked)\n                    and tags.egg and tags.egg >= 1",
+   "js": "(names.barnacle || names.barnacle_cooked) && (names.kelp || names.kelp_cooked) && tags.egg && tags.egg >= 1"
+  },
+  "talleggs": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.tallbirdegg and tags.veggie and tags.veggie >= 1",
+   "js": "names.tallbirdegg && tags.veggie && tags.veggie >= 1"
+  },
+  "monsterlasagna": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.monster and tags.monster >= 2 and not tags.inedible",
+   "js": "tags.monster && tags.monster >= 2 && ! tags.inedible"
+  },
+  "meatysalad": {
+   "pr": 25,
+   "peso": 1,
+   "lua": "(names.plantmeat or names.plantmeat_cooked)\n                    and tags.veggie and tags.veggie >= 3",
+   "js": "(names.plantmeat || names.plantmeat_cooked) && tags.veggie && tags.veggie >= 3"
+  },
+  "asparagussoup": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "(names.asparagus or names.asparagus_cooked) and tags.veggie and tags.veggie > 2 and not tags.meat and not tags.inedible",
+   "js": "(names.asparagus || names.asparagus_cooked) && tags.veggie && tags.veggie > 2 && ! tags.meat && ! tags.inedible"
+  },
+  "shroomcake": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "names.moon_cap and names.red_cap and names.blue_cap and names.green_cap",
+   "js": "names.moon_cap && names.red_cap && names.blue_cap && names.green_cap"
+  },
+  "turkeydinner": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.drumstick and names.drumstick > 1 and tags.meat and tags.meat > 1 and ((tags.veggie and tags.veggie >= 0.5) or tags.fruit)",
+   "js": "names.drumstick && names.drumstick > 1 && tags.meat && tags.meat > 1 && ((tags.veggie && tags.veggie >= 0.5) || tags.fruit)"
+  },
+  "fishsticks": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.fish and names.twigs and (tags.inedible and tags.inedible <= 1)",
+   "js": "tags.fish && names.twigs && (tags.inedible && tags.inedible <= 1)"
+  },
+  "mandrakesoup": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.mandrake",
+   "js": "names.mandrake"
+  },
+  "dustmeringue": {
+   "pr": 100,
+   "peso": 1,
+   "lua": "(names.refined_dust)",
+   "js": "(names.refined_dust)"
+  },
+  "dragonpie": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(names.dragonfruit or names.dragonfruit_cooked) and not tags.meat",
+   "js": "(names.dragonfruit || names.dragonfruit_cooked) && ! tags.meat"
+  },
+  "figatoni": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "(names.fig or names.fig_cooked) and tags.veggie and tags.veggie >= 2  and not tags.meat",
+   "js": "(names.fig || names.fig_cooked) && tags.veggie && tags.veggie >= 2 && ! tags.meat"
+  },
+  "ratatouille": {
+   "pr": 0,
+   "peso": 1,
+   "lua": "not tags.meat and tags.veggie and tags.veggie >= 0.5 and not tags.inedible",
+   "js": "! tags.meat && tags.veggie && tags.veggie >= 0.5 && ! tags.inedible"
+  },
+  "fruitmedley": {
+   "pr": 0,
+   "peso": 1,
+   "lua": "tags.fruit and tags.fruit >= 3 and not tags.meat and not tags.veggie",
+   "js": "tags.fruit && tags.fruit >= 3 && ! tags.meat && ! tags.veggie"
+  },
+  "powcake": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.twigs and names.honey and (names.corn or names.corn_cooked or names.oceanfish_small_5_inv or names.oceanfish_medium_5_inv)",
+   "js": "names.twigs && names.honey && (names.corn || names.corn_cooked || names.oceanfish_small_5_inv || names.oceanfish_medium_5_inv)"
+  },
+  "justeggs": {
+   "pr": 0,
+   "peso": 1,
+   "lua": "tags.egg and tags.egg >= 3",
+   "js": "tags.egg && tags.egg >= 3"
+  },
+  "shroombait": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "((names.moon_cap or 0) >= 2 ) and names.monstermeat",
+   "js": "((names.moon_cap || 0) >= 2 ) && names.monstermeat"
+  },
+  "leafloaf": {
+   "pr": 25,
+   "peso": 1,
+   "lua": "((names.plantmeat or 0) + (names.plantmeat_cooked or 0) >= 2 )",
+   "js": "((names.plantmeat || 0) + (names.plantmeat_cooked || 0) >= 2 )"
+  },
+  "bonestew": {
+   "pr": 0,
+   "peso": 1,
+   "lua": "tags.meat and tags.meat >= 3 and not tags.inedible",
+   "js": "tags.meat && tags.meat >= 3 && ! tags.inedible"
+  },
+  "meatballs": {
+   "pr": -1,
+   "peso": 1,
+   "lua": "tags.meat and not tags.inedible",
+   "js": "tags.meat && ! tags.inedible"
+  },
+  "jellybean": {
+   "pr": 12,
+   "peso": 1,
+   "lua": "names.royal_jelly and not tags.inedible and not tags.monster",
+   "js": "names.royal_jelly && ! tags.inedible && ! tags.monster"
+  },
+  "taffy": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.sweetener and tags.sweetener >= 3 and not tags.meat",
+   "js": "tags.sweetener && tags.sweetener >= 3 && ! tags.meat"
+  },
+  "lobsterdinner": {
+   "pr": 25,
+   "peso": 1,
+   "lua": "names.wobster_sheller_land and names.butter\n                    and (tags.meat and tags.meat >= 1.0) and (tags.fish and tags.fish >= 1.0) and not tags.frozen",
+   "js": "names.wobster_sheller_land && names.butter && (tags.meat && tags.meat >= 1.0) && (tags.fish && tags.fish >= 1.0) && ! tags.frozen"
+  },
+  "butterflymuffin": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(names.butterflywings or names.moonbutterflywings) and not tags.meat and tags.veggie and tags.veggie >= 0.5",
+   "js": "(names.butterflywings || names.moonbutterflywings) && ! tags.meat && tags.veggie && tags.veggie >= 0.5"
+  },
+  "salsa": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "(names.tomato or names.tomato_cooked) and (names.onion or names.onion_cooked) and not tags.meat and not tags.inedible and not tags.egg",
+   "js": "(names.tomato || names.tomato_cooked) && (names.onion || names.onion_cooked) && ! tags.meat && ! tags.inedible && ! tags.egg"
+  },
+  "kabobs": {
+   "pr": 5,
+   "peso": 1,
+   "lua": "tags.meat and names.twigs and (not tags.monster or tags.monster <= 1) and (tags.inedible and tags.inedible <= 1)",
+   "js": "tags.meat && names.twigs && (! tags.monster || tags.monster <= 1) && (tags.inedible && tags.inedible <= 1)"
+  },
+  "watermelonicle": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.watermelon and tags.frozen and names.twigs and not tags.meat and not tags.veggie and not tags.egg",
+   "js": "names.watermelon && tags.frozen && names.twigs && ! tags.meat && ! tags.veggie && ! tags.egg"
+  },
+  "frognewton": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(names.fig or names.fig_cooked) and (names.froglegs or names.froglegs_cooked)",
+   "js": "(names.fig || names.fig_cooked) && (names.froglegs || names.froglegs_cooked)"
+  },
+  "figkabab": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "(names.fig or names.fig_cooked) and names.twigs and tags.meat and tags.meat >= 1 and (not tags.monster or tags.monster <= 1)",
+   "js": "(names.fig || names.fig_cooked) && names.twigs && tags.meat && tags.meat >= 1 && (! tags.monster || tags.monster <= 1)"
+  },
+  "sweettea": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(names.forgetmelots or names.forgetmelots_dried) and tags.sweetener and tags.frozen and not tags.monster and not tags.veggie and not tags.meat and not tags.fish and not tags.egg and not tags.fat and not tags.dairy and not tags.inedible",
+   "js": "(names.forgetmelots || names.forgetmelots_dried) && tags.sweetener && tags.frozen && ! tags.monster && ! tags.veggie && ! tags.meat && ! tags.fish && ! tags.egg && ! tags.fat && ! tags.dairy && ! tags.inedible"
+  },
+  "ceviche": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "tags.fish and tags.fish >= 2 and tags.frozen and not tags.inedible and not tags.egg",
+   "js": "tags.fish && tags.fish >= 2 && tags.frozen && ! tags.inedible && ! tags.egg"
+  },
+  "pumpkincookie": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "(names.pumpkin or names.pumpkin_cooked) and tags.sweetener and tags.sweetener >= 2",
+   "js": "(names.pumpkin || names.pumpkin_cooked) && tags.sweetener && tags.sweetener >= 2"
+  },
+  "wetgoop": {
+   "pr": -10,
+   "peso": 1,
+   "lua": "true",
+   "js": "true"
+  },
+  "barnaclepita": {
+   "pr": 25,
+   "peso": 1,
+   "lua": "(names.barnacle or names.barnacle_cooked)\n                    and tags.veggie and tags.veggie >= 0.5",
+   "js": "(names.barnacle || names.barnacle_cooked) && tags.veggie && tags.veggie >= 0.5"
+  },
+  "vegstinger": {
+   "pr": 15,
+   "peso": 1,
+   "lua": "(names.asparagus or names.asparagus_cooked or names.tomato or names.tomato_cooked) and tags.veggie and tags.veggie > 2 and tags.frozen and not tags.meat and not tags.inedible and not tags.egg",
+   "js": "(names.asparagus || names.asparagus_cooked || names.tomato || names.tomato_cooked) && tags.veggie && tags.veggie > 2 && tags.frozen && ! tags.meat && ! tags.inedible && ! tags.egg"
+  },
+  "unagi": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "(names.cutlichen or names.kelp or names.kelp_cooked or names.kelp_dried) and (names.eel or names.eel_cooked or names.pondeel)",
+   "js": "(names.cutlichen || names.kelp || names.kelp_cooked || names.kelp_dried) && (names.eel || names.eel_cooked || names.pondeel)"
+  },
+  "fishtacos": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.fish and (names.corn or names.corn_cooked or names.oceanfish_small_5_inv or names.oceanfish_medium_5_inv)",
+   "js": "tags.fish && (names.corn || names.corn_cooked || names.oceanfish_small_5_inv || names.oceanfish_medium_5_inv)"
+  },
+  "bunnystew": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(tags.meat and tags.meat < 1)\n                and (tags.frozen and tags.frozen >= 2)\n                and (not tags.inedible)",
+   "js": "(tags.meat && tags.meat < 1) && (tags.frozen && tags.frozen >= 2) && (! tags.inedible)"
+  },
+  "bananajuice": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "((names.cave_banana or 0) + (names.cave_banana_cooked or 0) >= 2) and not tags.meat and not tags.fish and not tags.monster",
+   "js": "((names.cave_banana || 0) + (names.cave_banana_cooked || 0) >= 2) && ! tags.meat && ! tags.fish && ! tags.monster"
+  },
+  "batnosehat": {
+   "pr": 55,
+   "peso": 1,
+   "lua": "names.batnose and names.kelp\n                    and (tags.dairy and tags.dairy >= 1)",
+   "js": "names.batnose && names.kelp && (tags.dairy && tags.dairy >= 1)"
+  },
+  "baconeggs": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.egg and tags.egg > 1 and tags.meat and tags.meat > 1 and not tags.veggie",
+   "js": "tags.egg && tags.egg > 1 && tags.meat && tags.meat > 1 && ! tags.veggie"
+  },
+  "waffles": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.butter and (names.berries or names.berries_cooked or names.berries_juicy or names.berries_juicy_cooked) and tags.egg",
+   "js": "names.butter && (names.berries || names.berries_cooked || names.berries_juicy || names.berries_juicy_cooked) && tags.egg"
+  },
+  "perogies": {
+   "pr": 5,
+   "peso": 1,
+   "lua": "tags.egg and tags.meat and tags.veggie and tags.veggie >= 0.5 and not tags.inedible",
+   "js": "tags.egg && tags.meat && tags.veggie && tags.veggie >= 0.5 && ! tags.inedible"
+  },
+  "hotchili": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.meat and tags.veggie and tags.meat >= 1.5 and tags.veggie >= 1.5",
+   "js": "tags.meat && tags.veggie && tags.meat >= 1.5 && tags.veggie >= 1.5"
+  },
+  "californiaroll": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "((names.kelp or 0) + (names.kelp_cooked or 0) + (names.kelp_dried or 0)) == 2 and (tags.fish and tags.fish >= 1)",
+   "js": "((names.kelp || 0) + (names.kelp_cooked || 0) + (names.kelp_dried || 0)) == 2 && (tags.fish && tags.fish >= 1)"
+  },
+  "bananapop": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "(names.cave_banana or names.cave_banana_cooked) and tags.frozen and names.twigs and not tags.meat and not tags.fish",
+   "js": "(names.cave_banana || names.cave_banana_cooked) && tags.frozen && names.twigs && ! tags.meat && ! tags.fish"
+  },
+  "beefalotreat": {
+   "pr": -4,
+   "peso": 1,
+   "lua": "tags.inedible and tags.seed and (names.forgetmelots or names.forgetmelots_dried) and not tags.monster and not tags.meat and not tags.fish and not tags.egg and not tags.fat and not tags.dairy and not tags.magic",
+   "js": "tags.inedible && tags.seed && (names.forgetmelots || names.forgetmelots_dried) && ! tags.monster && ! tags.meat && ! tags.fish && ! tags.egg && ! tags.fat && ! tags.dairy && ! tags.magic"
+  },
+  "veggieomlet": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "tags.egg and tags.egg >= 1 and tags.veggie and tags.veggie >= 1 and not tags.meat and not tags.dairy",
+   "js": "tags.egg && tags.egg >= 1 && tags.veggie && tags.veggie >= 1 && ! tags.meat && ! tags.dairy"
+  },
+  "lobsterbisque": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "names.wobster_sheller_land and tags.frozen",
+   "js": "names.wobster_sheller_land && tags.frozen"
+  },
+  "honeyham": {
+   "pr": 2,
+   "peso": 1,
+   "lua": "names.honey and tags.meat and tags.meat > 1.5 and not tags.inedible",
+   "js": "names.honey && tags.meat && tags.meat > 1.5 && ! tags.inedible"
+  },
+  "mashedpotatoes": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "((names.potato and names.potato > 1) or (names.potato_cooked and names.potato_cooked > 1) or (names.potato and names.potato_cooked)) and (names.garlic or names.garlic_cooked) and not tags.meat and not tags.inedible",
+   "js": "((names.potato && names.potato > 1) || (names.potato_cooked && names.potato_cooked > 1) || (names.potato && names.potato_cooked)) && (names.garlic || names.garlic_cooked) && ! tags.meat && ! tags.inedible"
+  },
+  "frozenbananadaiquiri": {
+   "pr": 2,
+   "peso": 1,
+   "lua": "(names.cave_banana or names.cave_banana_cooked) and (tags.frozen and tags.frozen >= 1) and not tags.meat and not tags.fish",
+   "js": "(names.cave_banana || names.cave_banana_cooked) && (tags.frozen && tags.frozen >= 1) && ! tags.meat && ! tags.fish"
+  },
+  "pepperpopper": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "(names.pepper or names.pepper_cooked) and tags.meat and tags.meat <= 1.5 and not tags.inedible",
+   "js": "(names.pepper || names.pepper_cooked) && tags.meat && tags.meat <= 1.5 && ! tags.inedible"
+  },
+  "seafoodgumbo": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.fish and tags.fish > 2",
+   "js": "tags.fish && tags.fish > 2"
+  },
+  "potatotornado": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "(names.potato or names.potato_cooked) and names.twigs and (not tags.monster or tags.monster <= 1) and not tags.meat and (tags.inedible and tags.inedible <= 2)",
+   "js": "(names.potato || names.potato_cooked) && names.twigs && (! tags.monster || tags.monster <= 1) && ! tags.meat && (tags.inedible && tags.inedible <= 2)"
+  },
+  "stuffedeggplant": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(names.eggplant or names.eggplant_cooked) and tags.veggie and tags.veggie > 1",
+   "js": "(names.eggplant || names.eggplant_cooked) && tags.veggie && tags.veggie > 1"
+  },
+  "guacamole": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.mole and (names.rock_avocado_fruit_ripe or names.cactus_meat) and not tags.fruit",
+   "js": "names.mole && (names.rock_avocado_fruit_ripe || names.cactus_meat) && ! tags.fruit"
+  },
+  "honeynuggets": {
+   "pr": 2,
+   "peso": 1,
+   "lua": "names.honey and tags.meat and tags.meat <= 1.5 and not tags.inedible",
+   "js": "names.honey && tags.meat && tags.meat <= 1.5 && ! tags.inedible"
+  },
+  "trailmix": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "(names.acorn or names.acorn_cooked) and tags.seed and tags.seed >= 1 and (names.berries or names.berries_cooked or names.berries_juicy or names.berries_juicy_cooked) and tags.fruit and tags.fruit >= 1 and not tags.meat and not tags.veggie and not tags.egg and not tags.dairy",
+   "js": "(names.acorn || names.acorn_cooked) && tags.seed && tags.seed >= 1 && (names.berries || names.berries_cooked || names.berries_juicy || names.berries_juicy_cooked) && tags.fruit && tags.fruit >= 1 && ! tags.meat && ! tags.veggie && ! tags.egg && ! tags.dairy"
+  },
+  "frogglebunwich": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(names.froglegs or names.froglegs_cooked) and tags.veggie and tags.veggie >= 0.5",
+   "js": "(names.froglegs || names.froglegs_cooked) && tags.veggie && tags.veggie >= 0.5"
+  },
+  "jammypreserves": {
+   "pr": 0,
+   "peso": 1,
+   "lua": "tags.fruit and not tags.meat and not tags.veggie and not tags.inedible",
+   "js": "tags.fruit && ! tags.meat && ! tags.veggie && ! tags.inedible"
+  },
+  "barnaclinguine": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "((names.barnacle or 0) + (names.barnacle_cooked or 0) >= 2 )\n                    and tags.veggie and tags.veggie >= 2",
+   "js": "((names.barnacle || 0) + (names.barnacle_cooked || 0) >= 2 ) && tags.veggie && tags.veggie >= 2"
+  },
+  "icecream": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.frozen and tags.dairy and tags.sweetener and not tags.meat and not tags.veggie and not tags.inedible and not tags.egg",
+   "js": "tags.frozen && tags.dairy && tags.sweetener && ! tags.meat && ! tags.veggie && ! tags.inedible && ! tags.egg"
+  },
+  "beefalofeed": {
+   "pr": -5,
+   "peso": 1,
+   "lua": "tags.inedible and not tags.monster and not tags.meat and not tags.fish and not tags.egg and not tags.fat and not tags.dairy and not tags.magic",
+   "js": "tags.inedible && ! tags.monster && ! tags.meat && ! tags.fish && ! tags.egg && ! tags.fat && ! tags.dairy && ! tags.magic"
+  },
+  "leafymeatburger": {
+   "pr": 26,
+   "peso": 1,
+   "lua": "(names.plantmeat or names.plantmeat_cooked)\n            \t\tand (names.onion or names.onion_cooked)\n                    and tags.veggie and tags.veggie >= 2",
+   "js": "(names.plantmeat || names.plantmeat_cooked) && (names.onion || names.onion_cooked) && tags.veggie && tags.veggie >= 2"
+  },
+  "flowersalad": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.cactus_flower and tags.veggie and tags.veggie >= 2 and not tags.meat and not tags.inedible and not tags.egg and not tags.sweetener and not tags.fruit",
+   "js": "names.cactus_flower && tags.veggie && tags.veggie >= 2 && ! tags.meat && ! tags.inedible && ! tags.egg && ! tags.sweetener && ! tags.fruit"
+  },
+  "koalefig_trunk": {
+   "pr": 40,
+   "peso": 1,
+   "lua": "(names.trunk_summer or names.trunk_cooked or names.trunk_winter) and (names.fig or names.fig_cooked)",
+   "js": "(names.trunk_summer || names.trunk_cooked || names.trunk_winter) && (names.fig || names.fig_cooked)"
+  },
+  "barnaclestuffedfishhead": {
+   "pr": 26,
+   "peso": 1,
+   "lua": "(names.barnacle or names.barnacle_cooked)\n                    and tags.fish and tags.fish >= 1.25",
+   "js": "(names.barnacle || names.barnacle_cooked) && tags.fish && tags.fish >= 1.25"
+  }
+ },
+ "portatil": {
+  "surfnturf": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "tags.meat and tags.meat >= 2.5 and tags.fish and tags.fish >= 1.5 and not tags.frozen",
+   "js": "tags.meat && tags.meat >= 2.5 && tags.fish && tags.fish >= 1.5 && ! tags.frozen"
+  },
+  "leafymeatsouffle": {
+   "pr": 50,
+   "peso": 1,
+   "lua": "((names.plantmeat or 0) + (names.plantmeat_cooked or 0) >= 2 )\n                    and tags.sweetener and tags.sweetener >= 2",
+   "js": "((names.plantmeat || 0) + (names.plantmeat_cooked || 0) >= 2 ) && tags.sweetener && tags.sweetener >= 2"
+  },
+  "barnaclesushi": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "(names.barnacle or names.barnacle_cooked)\n            \t\tand (names.kelp or names.kelp_cooked)\n                    and tags.egg and tags.egg >= 1",
+   "js": "(names.barnacle || names.barnacle_cooked) && (names.kelp || names.kelp_cooked) && tags.egg && tags.egg >= 1"
+  },
+  "talleggs": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.tallbirdegg and tags.veggie and tags.veggie >= 1",
+   "js": "names.tallbirdegg && tags.veggie && tags.veggie >= 1"
+  },
+  "monsterlasagna": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.monster and tags.monster >= 2 and not tags.inedible",
+   "js": "tags.monster && tags.monster >= 2 && ! tags.inedible"
+  },
+  "moqueca": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "tags.fish and (names.onion or names.onion_cooked) and (names.tomato or names.tomato_cooked) and not tags.inedible",
+   "js": "tags.fish && (names.onion || names.onion_cooked) && (names.tomato || names.tomato_cooked) && ! tags.inedible"
+  },
+  "meatysalad": {
+   "pr": 25,
+   "peso": 1,
+   "lua": "(names.plantmeat or names.plantmeat_cooked)\n                    and tags.veggie and tags.veggie >= 3",
+   "js": "(names.plantmeat || names.plantmeat_cooked) && tags.veggie && tags.veggie >= 3"
+  },
+  "asparagussoup": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "(names.asparagus or names.asparagus_cooked) and tags.veggie and tags.veggie > 2 and not tags.meat and not tags.inedible",
+   "js": "(names.asparagus || names.asparagus_cooked) && tags.veggie && tags.veggie > 2 && ! tags.meat && ! tags.inedible"
+  },
+  "shroomcake": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "names.moon_cap and names.red_cap and names.blue_cap and names.green_cap",
+   "js": "names.moon_cap && names.red_cap && names.blue_cap && names.green_cap"
+  },
+  "turkeydinner": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.drumstick and names.drumstick > 1 and tags.meat and tags.meat > 1 and ((tags.veggie and tags.veggie >= 0.5) or tags.fruit)",
+   "js": "names.drumstick && names.drumstick > 1 && tags.meat && tags.meat > 1 && ((tags.veggie && tags.veggie >= 0.5) || tags.fruit)"
+  },
+  "fishsticks": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.fish and names.twigs and (tags.inedible and tags.inedible <= 1)",
+   "js": "tags.fish && names.twigs && (tags.inedible && tags.inedible <= 1)"
+  },
+  "mandrakesoup": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.mandrake",
+   "js": "names.mandrake"
+  },
+  "dustmeringue": {
+   "pr": 100,
+   "peso": 1,
+   "lua": "(names.refined_dust)",
+   "js": "(names.refined_dust)"
+  },
+  "dragonpie": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(names.dragonfruit or names.dragonfruit_cooked) and not tags.meat",
+   "js": "(names.dragonfruit || names.dragonfruit_cooked) && ! tags.meat"
+  },
+  "figatoni": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "(names.fig or names.fig_cooked) and tags.veggie and tags.veggie >= 2  and not tags.meat",
+   "js": "(names.fig || names.fig_cooked) && tags.veggie && tags.veggie >= 2 && ! tags.meat"
+  },
+  "ratatouille": {
+   "pr": 0,
+   "peso": 1,
+   "lua": "not tags.meat and tags.veggie and tags.veggie >= 0.5 and not tags.inedible",
+   "js": "! tags.meat && tags.veggie && tags.veggie >= 0.5 && ! tags.inedible"
+  },
+  "fruitmedley": {
+   "pr": 0,
+   "peso": 1,
+   "lua": "tags.fruit and tags.fruit >= 3 and not tags.meat and not tags.veggie",
+   "js": "tags.fruit && tags.fruit >= 3 && ! tags.meat && ! tags.veggie"
+  },
+  "powcake": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.twigs and names.honey and (names.corn or names.corn_cooked or names.oceanfish_small_5_inv or names.oceanfish_medium_5_inv)",
+   "js": "names.twigs && names.honey && (names.corn || names.corn_cooked || names.oceanfish_small_5_inv || names.oceanfish_medium_5_inv)"
+  },
+  "justeggs": {
+   "pr": 0,
+   "peso": 1,
+   "lua": "tags.egg and tags.egg >= 3",
+   "js": "tags.egg && tags.egg >= 3"
+  },
+  "shroombait": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "((names.moon_cap or 0) >= 2 ) and names.monstermeat",
+   "js": "((names.moon_cap || 0) >= 2 ) && names.monstermeat"
+  },
+  "leafloaf": {
+   "pr": 25,
+   "peso": 1,
+   "lua": "((names.plantmeat or 0) + (names.plantmeat_cooked or 0) >= 2 )",
+   "js": "((names.plantmeat || 0) + (names.plantmeat_cooked || 0) >= 2 )"
+  },
+  "bonestew": {
+   "pr": 0,
+   "peso": 1,
+   "lua": "tags.meat and tags.meat >= 3 and not tags.inedible",
+   "js": "tags.meat && tags.meat >= 3 && ! tags.inedible"
+  },
+  "meatballs": {
+   "pr": -1,
+   "peso": 1,
+   "lua": "tags.meat and not tags.inedible",
+   "js": "tags.meat && ! tags.inedible"
+  },
+  "jellybean": {
+   "pr": 12,
+   "peso": 1,
+   "lua": "names.royal_jelly and not tags.inedible and not tags.monster",
+   "js": "names.royal_jelly && ! tags.inedible && ! tags.monster"
+  },
+  "taffy": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.sweetener and tags.sweetener >= 3 and not tags.meat",
+   "js": "tags.sweetener && tags.sweetener >= 3 && ! tags.meat"
+  },
+  "lobsterdinner": {
+   "pr": 25,
+   "peso": 1,
+   "lua": "names.wobster_sheller_land and names.butter\n                    and (tags.meat and tags.meat >= 1.0) and (tags.fish and tags.fish >= 1.0) and not tags.frozen",
+   "js": "names.wobster_sheller_land && names.butter && (tags.meat && tags.meat >= 1.0) && (tags.fish && tags.fish >= 1.0) && ! tags.frozen"
+  },
+  "gazpacho": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "((names.asparagus and names.asparagus >= 2) or (names.asparagus_cooked and names.asparagus_cooked >= 2) or (names.asparagus and names.asparagus_cooked)) and (tags.frozen and tags.frozen >= 2)",
+   "js": "((names.asparagus && names.asparagus >= 2) || (names.asparagus_cooked && names.asparagus_cooked >= 2) || (names.asparagus && names.asparagus_cooked)) && (tags.frozen && tags.frozen >= 2)"
+  },
+  "butterflymuffin": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(names.butterflywings or names.moonbutterflywings) and not tags.meat and tags.veggie and tags.veggie >= 0.5",
+   "js": "(names.butterflywings || names.moonbutterflywings) && ! tags.meat && tags.veggie && tags.veggie >= 0.5"
+  },
+  "salsa": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "(names.tomato or names.tomato_cooked) and (names.onion or names.onion_cooked) and not tags.meat and not tags.inedible and not tags.egg",
+   "js": "(names.tomato || names.tomato_cooked) && (names.onion || names.onion_cooked) && ! tags.meat && ! tags.inedible && ! tags.egg"
+  },
+  "kabobs": {
+   "pr": 5,
+   "peso": 1,
+   "lua": "tags.meat and names.twigs and (not tags.monster or tags.monster <= 1) and (tags.inedible and tags.inedible <= 1)",
+   "js": "tags.meat && names.twigs && (! tags.monster || tags.monster <= 1) && (tags.inedible && tags.inedible <= 1)"
+  },
+  "watermelonicle": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.watermelon and tags.frozen and names.twigs and not tags.meat and not tags.veggie and not tags.egg",
+   "js": "names.watermelon && tags.frozen && names.twigs && ! tags.meat && ! tags.veggie && ! tags.egg"
+  },
+  "frognewton": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(names.fig or names.fig_cooked) and (names.froglegs or names.froglegs_cooked)",
+   "js": "(names.fig || names.fig_cooked) && (names.froglegs || names.froglegs_cooked)"
+  },
+  "figkabab": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "(names.fig or names.fig_cooked) and names.twigs and tags.meat and tags.meat >= 1 and (not tags.monster or tags.monster <= 1)",
+   "js": "(names.fig || names.fig_cooked) && names.twigs && tags.meat && tags.meat >= 1 && (! tags.monster || tags.monster <= 1)"
+  },
+  "sweettea": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(names.forgetmelots or names.forgetmelots_dried) and tags.sweetener and tags.frozen and not tags.monster and not tags.veggie and not tags.meat and not tags.fish and not tags.egg and not tags.fat and not tags.dairy and not tags.inedible",
+   "js": "(names.forgetmelots || names.forgetmelots_dried) && tags.sweetener && tags.frozen && ! tags.monster && ! tags.veggie && ! tags.meat && ! tags.fish && ! tags.egg && ! tags.fat && ! tags.dairy && ! tags.inedible"
+  },
+  "ceviche": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "tags.fish and tags.fish >= 2 and tags.frozen and not tags.inedible and not tags.egg",
+   "js": "tags.fish && tags.fish >= 2 && tags.frozen && ! tags.inedible && ! tags.egg"
+  },
+  "potatosouffle": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "((names.potato and names.potato >= 2) or (names.potato_cooked and names.potato_cooked >= 2) or (names.potato and names.potato_cooked)) and tags.egg and not tags.meat and not tags.inedible",
+   "js": "((names.potato && names.potato >= 2) || (names.potato_cooked && names.potato_cooked >= 2) || (names.potato && names.potato_cooked)) && tags.egg && ! tags.meat && ! tags.inedible"
+  },
+  "pumpkincookie": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "(names.pumpkin or names.pumpkin_cooked) and tags.sweetener and tags.sweetener >= 2",
+   "js": "(names.pumpkin || names.pumpkin_cooked) && tags.sweetener && tags.sweetener >= 2"
+  },
+  "wetgoop": {
+   "pr": -10,
+   "peso": 1,
+   "lua": "true",
+   "js": "true"
+  },
+  "barnaclepita": {
+   "pr": 25,
+   "peso": 1,
+   "lua": "(names.barnacle or names.barnacle_cooked)\n                    and tags.veggie and tags.veggie >= 0.5",
+   "js": "(names.barnacle || names.barnacle_cooked) && tags.veggie && tags.veggie >= 0.5"
+  },
+  "vegstinger": {
+   "pr": 15,
+   "peso": 1,
+   "lua": "(names.asparagus or names.asparagus_cooked or names.tomato or names.tomato_cooked) and tags.veggie and tags.veggie > 2 and tags.frozen and not tags.meat and not tags.inedible and not tags.egg",
+   "js": "(names.asparagus || names.asparagus_cooked || names.tomato || names.tomato_cooked) && tags.veggie && tags.veggie > 2 && tags.frozen && ! tags.meat && ! tags.inedible && ! tags.egg"
+  },
+  "unagi": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "(names.cutlichen or names.kelp or names.kelp_cooked or names.kelp_dried) and (names.eel or names.eel_cooked or names.pondeel)",
+   "js": "(names.cutlichen || names.kelp || names.kelp_cooked || names.kelp_dried) && (names.eel || names.eel_cooked || names.pondeel)"
+  },
+  "bonesoup": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "names.boneshard and names.boneshard == 2 and (names.onion or names.onion_cooked) and (tags.inedible and tags.inedible < 3)",
+   "js": "names.boneshard && names.boneshard == 2 && (names.onion || names.onion_cooked) && (tags.inedible && tags.inedible < 3)"
+  },
+  "batnosehat": {
+   "pr": 55,
+   "peso": 1,
+   "lua": "names.batnose and names.kelp\n                    and (tags.dairy and tags.dairy >= 1)",
+   "js": "names.batnose && names.kelp && (tags.dairy && tags.dairy >= 1)"
+  },
+  "fishtacos": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.fish and (names.corn or names.corn_cooked or names.oceanfish_small_5_inv or names.oceanfish_medium_5_inv)",
+   "js": "tags.fish && (names.corn || names.corn_cooked || names.oceanfish_small_5_inv || names.oceanfish_medium_5_inv)"
+  },
+  "monstertartare": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "tags.monster and tags.monster >= 2 and not tags.inedible",
+   "js": "tags.monster && tags.monster >= 2 && ! tags.inedible"
+  },
+  "frogfishbowl": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "((names.froglegs and names.froglegs >= 2) or (names.froglegs_cooked and names.froglegs_cooked >= 2 ) or (names.froglegs and names.froglegs_cooked)) and tags.fish and tags.fish >= 1 and not tags.inedible",
+   "js": "((names.froglegs && names.froglegs >= 2) || (names.froglegs_cooked && names.froglegs_cooked >= 2 ) || (names.froglegs && names.froglegs_cooked)) && tags.fish && tags.fish >= 1 && ! tags.inedible"
+  },
+  "dragonchilisalad": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "(names.dragonfruit or names.dragonfruit_cooked) and (names.pepper or names.pepper_cooked) and not tags.meat and not tags.inedible and not tags.egg",
+   "js": "(names.dragonfruit || names.dragonfruit_cooked) && (names.pepper || names.pepper_cooked) && ! tags.meat && ! tags.inedible && ! tags.egg"
+  },
+  "voltgoatjelly": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "(names.lightninggoathorn) and (tags.sweetener and tags.sweetener >= 2) and not tags.meat",
+   "js": "(names.lightninggoathorn) && (tags.sweetener && tags.sweetener >= 2) && ! tags.meat"
+  },
+  "barnaclestuffedfishhead": {
+   "pr": 26,
+   "peso": 1,
+   "lua": "(names.barnacle or names.barnacle_cooked)\n                    and tags.fish and tags.fish >= 1.25",
+   "js": "(names.barnacle || names.barnacle_cooked) && tags.fish && tags.fish >= 1.25"
+  },
+  "frogglebunwich": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(names.froglegs or names.froglegs_cooked) and tags.veggie and tags.veggie >= 0.5",
+   "js": "(names.froglegs || names.froglegs_cooked) && tags.veggie && tags.veggie >= 0.5"
+  },
+  "bunnystew": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(tags.meat and tags.meat < 1)\n                and (tags.frozen and tags.frozen >= 2)\n                and (not tags.inedible)",
+   "js": "(tags.meat && tags.meat < 1) && (tags.frozen && tags.frozen >= 2) && (! tags.inedible)"
+  },
+  "bananajuice": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "((names.cave_banana or 0) + (names.cave_banana_cooked or 0) >= 2) and not tags.meat and not tags.fish and not tags.monster",
+   "js": "((names.cave_banana || 0) + (names.cave_banana_cooked || 0) >= 2) && ! tags.meat && ! tags.fish && ! tags.monster"
+  },
+  "glowberrymousse": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "(names.wormlight or (names.wormlight_lesser and names.wormlight_lesser >= 2)) and (tags.fruit and tags.fruit >= 2) and not tags.meat and not tags.inedible",
+   "js": "(names.wormlight || (names.wormlight_lesser && names.wormlight_lesser >= 2)) && (tags.fruit && tags.fruit >= 2) && ! tags.meat && ! tags.inedible"
+  },
+  "baconeggs": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.egg and tags.egg > 1 and tags.meat and tags.meat > 1 and not tags.veggie",
+   "js": "tags.egg && tags.egg > 1 && tags.meat && tags.meat > 1 && ! tags.veggie"
+  },
+  "waffles": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.butter and (names.berries or names.berries_cooked or names.berries_juicy or names.berries_juicy_cooked) and tags.egg",
+   "js": "names.butter && (names.berries || names.berries_cooked || names.berries_juicy || names.berries_juicy_cooked) && tags.egg"
+  },
+  "perogies": {
+   "pr": 5,
+   "peso": 1,
+   "lua": "tags.egg and tags.meat and tags.veggie and tags.veggie >= 0.5 and not tags.inedible",
+   "js": "tags.egg && tags.meat && tags.veggie && tags.veggie >= 0.5 && ! tags.inedible"
+  },
+  "hotchili": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.meat and tags.veggie and tags.meat >= 1.5 and tags.veggie >= 1.5",
+   "js": "tags.meat && tags.veggie && tags.meat >= 1.5 && tags.veggie >= 1.5"
+  },
+  "californiaroll": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "((names.kelp or 0) + (names.kelp_cooked or 0) + (names.kelp_dried or 0)) == 2 and (tags.fish and tags.fish >= 1)",
+   "js": "((names.kelp || 0) + (names.kelp_cooked || 0) + (names.kelp_dried || 0)) == 2 && (tags.fish && tags.fish >= 1)"
+  },
+  "bananapop": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "(names.cave_banana or names.cave_banana_cooked) and tags.frozen and names.twigs and not tags.meat and not tags.fish",
+   "js": "(names.cave_banana || names.cave_banana_cooked) && tags.frozen && names.twigs && ! tags.meat && ! tags.fish"
+  },
+  "beefalotreat": {
+   "pr": -4,
+   "peso": 1,
+   "lua": "tags.inedible and tags.seed and (names.forgetmelots or names.forgetmelots_dried) and not tags.monster and not tags.meat and not tags.fish and not tags.egg and not tags.fat and not tags.dairy and not tags.magic",
+   "js": "tags.inedible && tags.seed && (names.forgetmelots || names.forgetmelots_dried) && ! tags.monster && ! tags.meat && ! tags.fish && ! tags.egg && ! tags.fat && ! tags.dairy && ! tags.magic"
+  },
+  "veggieomlet": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "tags.egg and tags.egg >= 1 and tags.veggie and tags.veggie >= 1 and not tags.meat and not tags.dairy",
+   "js": "tags.egg && tags.egg >= 1 && tags.veggie && tags.veggie >= 1 && ! tags.meat && ! tags.dairy"
+  },
+  "lobsterbisque": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "names.wobster_sheller_land and tags.frozen",
+   "js": "names.wobster_sheller_land && tags.frozen"
+  },
+  "honeyham": {
+   "pr": 2,
+   "peso": 1,
+   "lua": "names.honey and tags.meat and tags.meat > 1.5 and not tags.inedible",
+   "js": "names.honey && tags.meat && tags.meat > 1.5 && ! tags.inedible"
+  },
+  "mashedpotatoes": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "((names.potato and names.potato > 1) or (names.potato_cooked and names.potato_cooked > 1) or (names.potato and names.potato_cooked)) and (names.garlic or names.garlic_cooked) and not tags.meat and not tags.inedible",
+   "js": "((names.potato && names.potato > 1) || (names.potato_cooked && names.potato_cooked > 1) || (names.potato && names.potato_cooked)) && (names.garlic || names.garlic_cooked) && ! tags.meat && ! tags.inedible"
+  },
+  "frozenbananadaiquiri": {
+   "pr": 2,
+   "peso": 1,
+   "lua": "(names.cave_banana or names.cave_banana_cooked) and (tags.frozen and tags.frozen >= 1) and not tags.meat and not tags.fish",
+   "js": "(names.cave_banana || names.cave_banana_cooked) && (tags.frozen && tags.frozen >= 1) && ! tags.meat && ! tags.fish"
+  },
+  "pepperpopper": {
+   "pr": 20,
+   "peso": 1,
+   "lua": "(names.pepper or names.pepper_cooked) and tags.meat and tags.meat <= 1.5 and not tags.inedible",
+   "js": "(names.pepper || names.pepper_cooked) && tags.meat && tags.meat <= 1.5 && ! tags.inedible"
+  },
+  "seafoodgumbo": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.fish and tags.fish > 2",
+   "js": "tags.fish && tags.fish > 2"
+  },
+  "potatotornado": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "(names.potato or names.potato_cooked) and names.twigs and (not tags.monster or tags.monster <= 1) and not tags.meat and (tags.inedible and tags.inedible <= 2)",
+   "js": "(names.potato || names.potato_cooked) && names.twigs && (! tags.monster || tags.monster <= 1) && ! tags.meat && (tags.inedible && tags.inedible <= 2)"
+  },
+  "stuffedeggplant": {
+   "pr": 1,
+   "peso": 1,
+   "lua": "(names.eggplant or names.eggplant_cooked) and tags.veggie and tags.veggie > 1",
+   "js": "(names.eggplant || names.eggplant_cooked) && tags.veggie && tags.veggie > 1"
+  },
+  "guacamole": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.mole and (names.rock_avocado_fruit_ripe or names.cactus_meat) and not tags.fruit",
+   "js": "names.mole && (names.rock_avocado_fruit_ripe || names.cactus_meat) && ! tags.fruit"
+  },
+  "honeynuggets": {
+   "pr": 2,
+   "peso": 1,
+   "lua": "names.honey and tags.meat and tags.meat <= 1.5 and not tags.inedible",
+   "js": "names.honey && tags.meat && tags.meat <= 1.5 && ! tags.inedible"
+  },
+  "trailmix": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "(names.acorn or names.acorn_cooked) and tags.seed and tags.seed >= 1 and (names.berries or names.berries_cooked or names.berries_juicy or names.berries_juicy_cooked) and tags.fruit and tags.fruit >= 1 and not tags.meat and not tags.veggie and not tags.egg and not tags.dairy",
+   "js": "(names.acorn || names.acorn_cooked) && tags.seed && tags.seed >= 1 && (names.berries || names.berries_cooked || names.berries_juicy || names.berries_juicy_cooked) && tags.fruit && tags.fruit >= 1 && ! tags.meat && ! tags.veggie && ! tags.egg && ! tags.dairy"
+  },
+  "nightmarepie": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "names.nightmarefuel and names.nightmarefuel == 2 and (names.potato or names.potato_cooked) and (names.onion or names.onion_cooked)",
+   "js": "names.nightmarefuel && names.nightmarefuel == 2 && (names.potato || names.potato_cooked) && (names.onion || names.onion_cooked)"
+  },
+  "jammypreserves": {
+   "pr": 0,
+   "peso": 1,
+   "lua": "tags.fruit and not tags.meat and not tags.veggie and not tags.inedible",
+   "js": "tags.fruit && ! tags.meat && ! tags.veggie && ! tags.inedible"
+  },
+  "barnaclinguine": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "((names.barnacle or 0) + (names.barnacle_cooked or 0) >= 2 )\n                    and tags.veggie and tags.veggie >= 2",
+   "js": "((names.barnacle || 0) + (names.barnacle_cooked || 0) >= 2 ) && tags.veggie && tags.veggie >= 2"
+  },
+  "icecream": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "tags.frozen and tags.dairy and tags.sweetener and not tags.meat and not tags.veggie and not tags.inedible and not tags.egg",
+   "js": "tags.frozen && tags.dairy && tags.sweetener && ! tags.meat && ! tags.veggie && ! tags.inedible && ! tags.egg"
+  },
+  "beefalofeed": {
+   "pr": -5,
+   "peso": 1,
+   "lua": "tags.inedible and not tags.monster and not tags.meat and not tags.fish and not tags.egg and not tags.fat and not tags.dairy and not tags.magic",
+   "js": "tags.inedible && ! tags.monster && ! tags.meat && ! tags.fish && ! tags.egg && ! tags.fat && ! tags.dairy && ! tags.magic"
+  },
+  "leafymeatburger": {
+   "pr": 26,
+   "peso": 1,
+   "lua": "(names.plantmeat or names.plantmeat_cooked)\n            \t\tand (names.onion or names.onion_cooked)\n                    and tags.veggie and tags.veggie >= 2",
+   "js": "(names.plantmeat || names.plantmeat_cooked) && (names.onion || names.onion_cooked) && tags.veggie && tags.veggie >= 2"
+  },
+  "flowersalad": {
+   "pr": 10,
+   "peso": 1,
+   "lua": "names.cactus_flower and tags.veggie and tags.veggie >= 2 and not tags.meat and not tags.inedible and not tags.egg and not tags.sweetener and not tags.fruit",
+   "js": "names.cactus_flower && tags.veggie && tags.veggie >= 2 && ! tags.meat && ! tags.inedible && ! tags.egg && ! tags.sweetener && ! tags.fruit"
+  },
+  "koalefig_trunk": {
+   "pr": 40,
+   "peso": 1,
+   "lua": "(names.trunk_summer or names.trunk_cooked or names.trunk_winter) and (names.fig or names.fig_cooked)",
+   "js": "(names.trunk_summer || names.trunk_cooked || names.trunk_winter) && (names.fig || names.fig_cooked)"
+  },
+  "freshfruitcrepes": {
+   "pr": 30,
+   "peso": 1,
+   "lua": "tags.fruit and tags.fruit >= 1.5 and names.butter and names.honey",
+   "js": "tags.fruit && tags.fruit >= 1.5 && names.butter && names.honey"
+  }
+ },
+ "nomes_pratos": {
+  "hotchili": "Chili picante",
+  "monstertartare": "Tártaro de monstro",
+  "stuffedeggplant": "Berinjela recheada",
+  "waffles": "Waffles",
+  "californiaroll": "Rolinho Califórnia",
+  "perogies": "Pierogi",
+  "leafymeatsouffle": "Salada Gelatinosa",
+  "talleggs": "Grandes Bolovos",
+  "mashedpotatoes": "Purê de Batata Cremoso",
+  "bananapop": "Banana no palito",
+  "dustmeringue": "Ambarosia",
+  "shroombait": "Touca de Dormir Recheada",
+  "bonesoup": "Caldo de Ossos",
+  "dragonchilisalad": "Salada de Chili com Pitaia",
+  "turkeydinner": "Banquete de peru",
+  "fishtacos": "Tacos de peixe",
+  "mandrakesoup": "Sopa de mandrágora",
+  "leafymeatburger": "Hambúrguer Vegetariano",
+  "sweettea": "Chá Relaxante",
+  "frogglebunwich": "Sapoíche",
+  "barnaclepita": "Pão de Craca",
+  "nightmarepie": "Galette Sinistra",
+  "honeyham": "Presunto com mel",
+  "ratatouille": "Ratatouille",
+  "bunnystew": "Cozido de Coelho",
+  "trailmix": "Misto frio",
+  "fruitmedley": "Misto de frutas",
+  "pumpkincookie": "Biscoitinhos de abóbora",
+  "honeynuggets": "Carne com mel",
+  "leafloaf": "Rolo de Carne Folhoso",
+  "barnaclestuffedfishhead": "Cabeças de Peixe Recheadas",
+  "batnosehat": "Chapéu Lácteo",
+  "icecream": "Sorvete",
+  "frognewton": "Sapuíche de Figo",
+  "voltgoatjelly": "Chaudfroid de Bode Elétrico",
+  "vegstinger": "Ferrão Vegetal",
+  "barnaclinguine": "Cracas e Linguine",
+  "asparagussoup": "Sopa de Aspargo",
+  "watermelonicle": "Picolé de melancia",
+  "meatysalad": "Legumes Carnudos",
+  "bonestew": "Cozido de carne",
+  "powcake": "Bolo de pólvora",
+  "lobsterdinner": "Jantar de lagosta",
+  "guacamole": "Guacamole",
+  "gazpacho": "Aspargazpacho",
+  "glowberrymousse": "Mousse de Baga Cintilante",
+  "justeggs": "Omelete Simples",
+  "frogfishbowl": "Cordon Bleu de Peixe",
+  "beefalotreat": "Biscoitos de Bífalo",
+  "beefalofeed": "Ramos Cozidos a Vapor",
+  "freshfruitcrepes": "Crepe de frutas frescas",
+  "shroomcake": "Bolo Molenga",
+  "moqueca": "Moqueca",
+  "bananajuice": "Vitamina de Banana",
+  "butterflymuffin": "Bolinho de manteiga",
+  "taffy": "Balinha",
+  "ceviche": "Ceviche",
+  "unagi": "Unagui",
+  "surfnturf": "Mar e terra",
+  "figkabab": "Kebab de Figo",
+  "kabobs": "Espetinhos",
+  "fishsticks": "Bastonetes de peixe",
+  "potatosouffle": "Suflê de Batata Tufada",
+  "veggieomlet": "Frigideira de Café da Manhã",
+  "pepperpopper": "Pimenta Cozida Recheada",
+  "koalefig_trunk": "Tromba Recheada de Figo",
+  "dragonpie": "Torta de pitaia",
+  "figatoni": "Figatoni",
+  "lobsterbisque": "Creme de lagosta",
+  "flowersalad": "Salada de flores",
+  "monsterlasagna": "Lasanha de monstro",
+  "potatotornado": "Tubérculos Espiralados Chiques",
+  "wetgoop": "Meleca úmida",
+  "frozenbananadaiquiri": "Daiquiri de Banana Congelada",
+  "meatballs": "Almôndegas",
+  "jellybean": "Jujubas",
+  "baconeggs": "Bacon e ovos",
+  "barnaclesushi": "Nigiri de Craca",
+  "jammypreserves": "Porção de geleia",
+  "salsa": "Salsa Fresca",
+  "seafoodgumbo": "Fervido de frutos do mar"
+ }
+}

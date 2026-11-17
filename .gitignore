@@ -1,0 +1,7 @@
+# scripts extraídos do jogo (são da Klei, ~280 MB): gerados por testes/rodar.py
+testes/scripts_do_jogo/
+__pycache__/
+*.pyc
+.venv/
+# prévias de ícones
+*.previa.png

@@ -1,0 +1,2472 @@
+[
+ {
+  "m": "fogueira",
+  "raw": "acorn",
+  "rn": "Noz de vidoeiro",
+  "ren": "Birchnut",
+  "prod": "acorn_cooked",
+  "pn": "Noz de vidoeiro assada",
+  "pen": "Roasted Birchnut",
+  "r": {
+   "h": 1,
+   "u": 9.38,
+   "s": 0,
+   "p": 20.0,
+   "ty": "RAW",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 9.38,
+   "s": 0,
+   "p": 6.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "asparagus",
+  "rn": "Aspargo",
+  "ren": "Asparagus",
+  "prod": "asparagus_cooked",
+  "pn": "Aspargo Assado",
+  "pen": "Roasted Asparagus",
+  "r": {
+   "h": 3,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 3,
+   "u": 25,
+   "s": 0,
+   "p": 3.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "asparagus_seeds",
+  "rn": "Sementes Tubulares",
+  "ren": "Tubular Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "barnacle",
+  "rn": "Cracas",
+  "ren": "Barnacles",
+  "prod": "barnacle_cooked",
+  "pn": "Cracas Cozidas",
+  "pen": "Cooked Barnacles",
+  "r": {
+   "h": 0,
+   "u": 12.5,
+   "s": -5,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 15.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "batnose",
+  "rn": "Narinas-Peladas",
+  "ren": "Naked Nostrils",
+  "prod": "batnose_cooked",
+  "pn": "Narinas Tostadas",
+  "pen": "Charred Nostrils",
+  "r": {
+   "h": 3,
+   "u": 12.5,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 18.75,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "batnose",
+  "rn": "Narinas-Peladas",
+  "ren": "Naked Nostrils",
+  "prod": "smallmeat_dried",
+  "pn": "Charque pequeno",
+  "pen": "Small Jerky",
+  "r": {
+   "h": 3,
+   "u": 12.5,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 12.5,
+   "s": 10,
+   "p": 20.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": 2.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "batwing",
+  "rn": "Asa de morcegolisco",
+  "ren": "Batilisk Wing",
+  "prod": "batwing_cooked",
+  "pn": "Asa de morcegolisco cozida",
+  "pen": "Cooked Batilisk Wing",
+  "r": {
+   "h": 3,
+   "u": 12.5,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 18.75,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "batwing",
+  "rn": "Asa de morcegolisco",
+  "ren": "Batilisk Wing",
+  "prod": "smallmeat_dried",
+  "pn": "Charque pequeno",
+  "pen": "Small Jerky",
+  "r": {
+   "h": 3,
+   "u": 12.5,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 12.5,
+   "s": 10,
+   "p": 20.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": 2.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "berries",
+  "rn": "Bagas",
+  "ren": "Berries",
+  "prod": "berries_cooked",
+  "pn": "Bagas assadas",
+  "pen": "Roasted Berries",
+  "r": {
+   "h": 0,
+   "u": 9.38,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 3.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "berries_juicy",
+  "rn": "Bagas suculentas",
+  "ren": "Juicy Berries",
+  "prod": "berries_juicy_cooked",
+  "pn": "Bagas suculentas assadas",
+  "pen": "Roasted Juicy Berries",
+  "r": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 2.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 3,
+   "u": 18.75,
+   "s": 0,
+   "p": 1.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "bird_egg",
+  "rn": "Ovo",
+  "ren": "Egg",
+  "prod": "bird_egg_cooked",
+  "pn": "Ovo cozido",
+  "pen": "Cooked Egg",
+  "r": {
+   "h": 0,
+   "u": 9.38,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 0,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "blue_cap",
+  "rn": "Cogumelo azul",
+  "ren": "Blue Cap",
+  "prod": "blue_cap_cooked",
+  "pn": "Cogumelo azul cozido",
+  "pen": "Cooked Blue Cap",
+  "r": {
+   "h": 20,
+   "u": 12.5,
+   "s": -15,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": -3,
+   "u": 0,
+   "s": 10,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "cactus_meat",
+  "rn": "Carne de cacto",
+  "ren": "Cactus Flesh",
+  "prod": "cactus_meat_cooked",
+  "pn": "Carne de cacto assada",
+  "pen": "Cooked Cactus Flesh",
+  "r": {
+   "h": -3,
+   "u": 12.5,
+   "s": -5,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 15,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "canary",
+  "rn": "Canário",
+  "ren": "Canary",
+  "prod": "cookedsmallmeat",
+  "pn": "Naco cozido",
+  "pen": "Cooked Morsel",
+  "r": {
+   "h": null,
+   "u": null,
+   "s": null,
+   "p": null,
+   "ty": null,
+   "edible": false
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "carrat",
+  "rn": "Cenourrato",
+  "ren": "Carrat",
+  "prod": "plantmeat_cooked",
+  "pn": "Carne folhosa cozida",
+  "pen": "Cooked Leafy Meat",
+  "r": {
+   "h": null,
+   "u": null,
+   "s": null,
+   "p": null,
+   "ty": null,
+   "edible": false
+  },
+  "c": {
+   "h": 1,
+   "u": 18.75,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "carrot",
+  "rn": "Cenoura",
+  "ren": "Carrot",
+  "prod": "carrot_cooked",
+  "pn": "Cenoura assada",
+  "pen": "Roasted Carrot",
+  "r": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 3,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "carrot_seeds",
+  "rn": "Sementes oblongas",
+  "ren": "Oblong Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "cave_banana",
+  "rn": "Banana",
+  "ren": "Banana",
+  "prod": "cave_banana_cooked",
+  "pn": "Banana cozida",
+  "pen": "Cooked Banana",
+  "r": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 3,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "corn",
+  "rn": "Milho",
+  "ren": "Corn",
+  "prod": "corn_cooked",
+  "pn": "Pipoca",
+  "pen": "Popcorn",
+  "r": {
+   "h": 3,
+   "u": 25,
+   "s": 0,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 3,
+   "u": 12.5,
+   "s": 0,
+   "p": 15.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "corn_seeds",
+  "rn": "Sementes Aglomeradas",
+  "ren": "Clustered Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "crow",
+  "rn": "Corvo",
+  "ren": "Crow",
+  "prod": "cookedsmallmeat",
+  "pn": "Naco cozido",
+  "pen": "Cooked Morsel",
+  "r": {
+   "h": null,
+   "u": null,
+   "s": null,
+   "p": null,
+   "ty": null,
+   "edible": false
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "dragonfruit",
+  "rn": "Pitaia",
+  "ren": "Dragon Fruit",
+  "prod": "dragonfruit_cooked",
+  "pn": "Pitaia preparada",
+  "pen": "Prepared Dragon Fruit",
+  "r": {
+   "h": 3,
+   "u": 9.38,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 20,
+   "u": 12.5,
+   "s": 0,
+   "p": 3.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "dragonfruit_seeds",
+  "rn": "Sementes Bulbosas",
+  "ren": "Bulbous Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "drumstick",
+  "rn": "Coxinha",
+  "ren": "Drumstick",
+  "prod": "drumstick_cooked",
+  "pn": "Coxa frita",
+  "pen": "Fried Drumstick",
+  "r": {
+   "h": 0,
+   "u": 12.5,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "drumstick",
+  "rn": "Coxinha",
+  "ren": "Drumstick",
+  "prod": "smallmeat_dried",
+  "pn": "Charque pequeno",
+  "pen": "Small Jerky",
+  "r": {
+   "h": 0,
+   "u": 12.5,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 12.5,
+   "s": 10,
+   "p": 20.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "durian",
+  "rn": "Dúrio",
+  "ren": "Durian",
+  "prod": "durian_cooked",
+  "pn": "Dúrio muito fedido",
+  "pen": "Extra Smelly Durian",
+  "r": {
+   "h": -3,
+   "u": 25,
+   "s": -5,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 0,
+   "u": 25,
+   "s": -5,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "durian_seeds",
+  "rn": "Vagens de Sementes Frágeis",
+  "ren": "Brittle Seed Pods",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "eel",
+  "rn": "Enguia",
+  "ren": "Eel",
+  "prod": "eel_cooked",
+  "pn": "Enguia assada",
+  "pen": "Cooked Eel",
+  "r": {
+   "h": 3,
+   "u": 9.38,
+   "s": 0,
+   "p": 3.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "eel",
+  "rn": "Enguia",
+  "ren": "Eel",
+  "prod": "fishmeat_small_dried",
+  "pn": "Peixe Seco Pequeno",
+  "pen": "Small Fishy Jerky",
+  "r": {
+   "h": 3,
+   "u": 9.38,
+   "s": 0,
+   "p": 3.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 15,
+   "u": 12.5,
+   "s": 20,
+   "p": 15.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "eggplant",
+  "rn": "Berinjela",
+  "ren": "Eggplant",
+  "prod": "eggplant_cooked",
+  "pn": "Berinjela refogada",
+  "pen": "Braised Eggplant",
+  "r": {
+   "h": 8,
+   "u": 25,
+   "s": 0,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 20,
+   "u": 25,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "eggplant_seeds",
+  "rn": "Sementes Enroladas",
+  "ren": "Swirly Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "fig",
+  "rn": "Figo",
+  "ren": "Fig",
+  "prod": "fig_cooked",
+  "pn": "Figo Cozido",
+  "pen": "Cooked Fig",
+  "r": {
+   "h": 0,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 18.75,
+   "s": 0,
+   "p": 3.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "firenettles",
+  "rn": "Frondes de Urtigardente",
+  "ren": "Fire Nettle Fronds",
+  "prod": "firenettles_dried",
+  "pn": "Fronde de Urtigardentes Secas",
+  "pen": "Dried Fire Nettle Frond",
+  "r": {
+   "h": -3,
+   "u": 0,
+   "s": -5,
+   "p": 3.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": -3,
+   "u": 0,
+   "s": -5,
+   "p": null,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "fish",
+  "rn": "Peixe",
+  "ren": "Fish",
+  "prod": "fish_cooked",
+  "pn": "Peixe cozido",
+  "pen": "Cooked Fish",
+  "r": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 3.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "fish",
+  "rn": "Peixe",
+  "ren": "Fish",
+  "prod": "fishmeat_small_dried",
+  "pn": "Peixe Seco Pequeno",
+  "pen": "Small Fishy Jerky",
+  "r": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 3.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 15,
+   "u": 12.5,
+   "s": 20,
+   "p": 15.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "fishmeat",
+  "rn": "Peixe cru",
+  "ren": "Raw Fish",
+  "prod": "fishmeat_cooked",
+  "pn": "Filé de peixe",
+  "pen": "Fish Steak",
+  "r": {
+   "h": 8,
+   "u": 25,
+   "s": 0,
+   "p": 3.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 25,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "fishmeat",
+  "rn": "Peixe cru",
+  "ren": "Raw Fish",
+  "prod": "fishmeat_dried",
+  "pn": "Peixe Seco",
+  "pen": "Fishy Jerky",
+  "r": {
+   "h": 8,
+   "u": 25,
+   "s": 0,
+   "p": 3.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 30,
+   "u": 25,
+   "s": 15,
+   "p": 15.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "fishmeat_small",
+  "rn": "Naco de peixe",
+  "ren": "Fish Morsel",
+  "prod": "fishmeat_small_cooked",
+  "pn": "Naco peixe cozido",
+  "pen": "Cooked Fish Morsel",
+  "r": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 3.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "fishmeat_small",
+  "rn": "Naco de peixe",
+  "ren": "Fish Morsel",
+  "prod": "fishmeat_small_dried",
+  "pn": "Peixe Seco Pequeno",
+  "pen": "Small Fishy Jerky",
+  "r": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 3.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 15,
+   "u": 12.5,
+   "s": 20,
+   "p": 15.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": 0.5
+ },
+ {
+  "m": "varal",
+  "raw": "foliage",
+  "rn": "Folhagem",
+  "ren": "Foliage",
+  "prod": "foliage_dried",
+  "pn": "Folhagem Seca",
+  "pen": "Dried Foliage",
+  "r": {
+   "h": 1,
+   "u": 0,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 0,
+   "s": 0,
+   "p": null,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "varal",
+  "raw": "forgetmelots",
+  "rn": "Vê-Se-Me-Esquece",
+  "ren": "Forget-Me-Lots",
+  "prod": "forgetmelots_dried",
+  "pn": "Vê-Se-Me-Esquece Seca",
+  "pen": "Dried Forget-Me-Lots",
+  "r": {
+   "h": 0,
+   "u": 0,
+   "s": 1,
+   "p": 3.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 0,
+   "s": 5,
+   "p": null,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "froglegs",
+  "rn": "Pernas de sapo",
+  "ren": "Frog Legs",
+  "prod": "froglegs_cooked",
+  "pn": "Pernas de sapo assadas",
+  "pen": "Cooked Frog Legs",
+  "r": {
+   "h": 0,
+   "u": 12.5,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "froglegs",
+  "rn": "Pernas de sapo",
+  "ren": "Frog Legs",
+  "prod": "smallmeat_dried",
+  "pn": "Charque pequeno",
+  "pen": "Small Jerky",
+  "r": {
+   "h": 0,
+   "u": 12.5,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 12.5,
+   "s": 10,
+   "p": 20.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "garlic",
+  "rn": "Alho",
+  "ren": "Garlic",
+  "prod": "garlic_cooked",
+  "pn": "Alho Assado",
+  "pen": "Roasted Garlic",
+  "r": {
+   "h": 0,
+   "u": 9.38,
+   "s": -10,
+   "p": 15.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 9.38,
+   "s": -5,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "garlic_seeds",
+  "rn": "Vagens de sementes",
+  "ren": "Seed Pods",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "green_cap",
+  "rn": "Cogumelo verde",
+  "ren": "Green Cap",
+  "prod": "green_cap_cooked",
+  "pn": "Cogumelo verde assado",
+  "pen": "Cooked Green Cap",
+  "r": {
+   "h": 0,
+   "u": 12.5,
+   "s": -50,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": -1,
+   "u": 0,
+   "s": 15,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "humanmeat",
+  "rn": "Porco longo",
+  "ren": "Long Pig",
+  "prod": "humanmeat_cooked",
+  "pn": "Porco longo cozido",
+  "pen": "Cooked Long Pig",
+  "r": {
+   "h": -20,
+   "u": 12.5,
+   "s": -33,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": -3,
+   "u": 18.75,
+   "s": -33,
+   "p": 15.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "humanmeat",
+  "rn": "Porco longo",
+  "ren": "Long Pig",
+  "prod": "humanmeat_dried",
+  "pn": "Charque de porco longo",
+  "pen": "Long Pig Jerky",
+  "r": {
+   "h": -20,
+   "u": 12.5,
+   "s": -33,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": -3,
+   "u": 12.5,
+   "s": -15,
+   "p": 20.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "kelp",
+  "rn": "Frondes de Alga",
+  "ren": "Kelp Fronds",
+  "prod": "kelp_cooked",
+  "pn": "Frondes de Alga Cozidas",
+  "pen": "Cooked Kelp Fronds",
+  "r": {
+   "h": -1,
+   "u": 9.38,
+   "s": -10,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 0,
+   "u": 9.38,
+   "s": -5,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "kelp",
+  "rn": "Frondes de Alga",
+  "ren": "Kelp Fronds",
+  "prod": "kelp_dried",
+  "pn": "Frondes de Alga Secas",
+  "pen": "Dried Kelp Fronds",
+  "r": {
+   "h": -1,
+   "u": 9.38,
+   "s": -10,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 9.38,
+   "s": 10,
+   "p": 20.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": 0.25
+ },
+ {
+  "m": "fogueira",
+  "raw": "lightcrab",
+  "rn": "Crustrabrilho",
+  "ren": "Crustashine",
+  "prod": "fishmeat_small_cooked",
+  "pn": "Naco peixe cozido",
+  "pen": "Cooked Fish Morsel",
+  "r": {
+   "h": null,
+   "u": null,
+   "s": null,
+   "p": null,
+   "ty": null,
+   "edible": false
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "mandrake",
+  "rn": "Mandrágora",
+  "ren": "Mandrake",
+  "prod": "cookedmandrake",
+  "pn": "Mandrágora assada",
+  "pen": "Cooked Mandrake",
+  "r": {
+   "h": 60,
+   "u": 75,
+   "s": 0,
+   "p": null,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 100,
+   "u": 150,
+   "s": 0,
+   "p": null,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "meat",
+  "rn": "Carne",
+  "ren": "Meat",
+  "prod": "cookedmeat",
+  "pn": "Carne assada",
+  "pen": "Cooked Meat",
+  "r": {
+   "h": 1,
+   "u": 25,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 3,
+   "u": 25,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "meat",
+  "rn": "Carne",
+  "ren": "Meat",
+  "prod": "meat_dried",
+  "pn": "Charque",
+  "pen": "Jerky",
+  "r": {
+   "h": 1,
+   "u": 25,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 20,
+   "u": 25,
+   "s": 15,
+   "p": 20.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": 2.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "mitegland",
+  "rn": "Glândula de Calor",
+  "ren": "Heat Gland",
+  "prod": "mitegland_cooked",
+  "pn": "Glândula de Calor Cozida",
+  "pen": "Cooked Heat Gland",
+  "r": {
+   "h": 8,
+   "u": 18.75,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 20,
+   "u": 25,
+   "s": -5,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "mole",
+  "rn": "Verme toupeira",
+  "ren": "Moleworm",
+  "prod": "cookedsmallmeat",
+  "pn": "Naco cozido",
+  "pen": "Cooked Morsel",
+  "r": {
+   "h": null,
+   "u": null,
+   "s": null,
+   "p": null,
+   "ty": null,
+   "edible": false
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "monstermeat",
+  "rn": "Carne de monstro",
+  "ren": "Monster Meat",
+  "prod": "cookedmonstermeat",
+  "pn": "Carne de monstro cozida",
+  "pen": "Cooked Monster Meat",
+  "r": {
+   "h": -20,
+   "u": 18.75,
+   "s": -15,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": -3,
+   "u": 18.75,
+   "s": -10,
+   "p": 15.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "monstermeat",
+  "rn": "Carne de monstro",
+  "ren": "Monster Meat",
+  "prod": "monstermeat_dried",
+  "pn": "Charque de monstro",
+  "pen": "Monster Jerky",
+  "r": {
+   "h": -20,
+   "u": 18.75,
+   "s": -15,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": -3,
+   "u": 18.75,
+   "s": -5,
+   "p": 20.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "moon_cap",
+  "rn": "Cogumelo Lunar",
+  "ren": "Moon Shroom",
+  "prod": "moon_cap_cooked",
+  "pn": "Cogumelo Lunar Cozido",
+  "pen": "Cooked Moon Shroom",
+  "r": {
+   "h": 0,
+   "u": 12.5,
+   "s": 10,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 0,
+   "u": -12.5,
+   "s": -10,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "moon_tree_blossom",
+  "rn": "Flor de Árvore Lunar",
+  "ren": "Lune Tree Blossom",
+  "prod": "moon_tree_blossom_dried",
+  "pn": "Flor de Árvore Lunar Seca",
+  "pen": "Dried Lune Tree Blossom",
+  "r": {
+   "h": 1,
+   "u": 0,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 0,
+   "s": 10,
+   "p": null,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "onion",
+  "rn": "Cebola",
+  "ren": "Onion",
+  "prod": "onion_cooked",
+  "pn": "Cebola Assada",
+  "pen": "Roasted Onion",
+  "r": {
+   "h": 0,
+   "u": 9.38,
+   "s": -10,
+   "p": 15.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 9.38,
+   "s": -5,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "onion_seeds",
+  "rn": "Sementes pontudas",
+  "ren": "Pointy Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "pepper",
+  "rn": "Pimentinha",
+  "ren": "Pepper",
+  "prod": "pepper_cooked",
+  "pn": "Pimenta Assada",
+  "pen": "Roasted Pepper",
+  "r": {
+   "h": -20,
+   "u": 9.38,
+   "s": -15,
+   "p": 15.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": -3,
+   "u": 9.38,
+   "s": -10,
+   "p": 15.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "pepper_seeds",
+  "rn": "Sementes Nodosas",
+  "ren": "Lumpy Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "petals",
+  "rn": "Pétalas",
+  "ren": "Petals",
+  "prod": "petals_dried",
+  "pn": "Pétalas Secas",
+  "pen": "Dried Petals",
+  "r": {
+   "h": 1,
+   "u": 0,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 0,
+   "s": 1,
+   "p": null,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "varal",
+  "raw": "petals_evil",
+  "rn": "Pétalas negras",
+  "ren": "Dark Petals",
+  "prod": "petals_evil_dried",
+  "pn": "Pétalas Negras Secas",
+  "pen": "Dried Dark Petals",
+  "r": {
+   "h": 0,
+   "u": 0,
+   "s": -5,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 0,
+   "s": -5,
+   "p": null,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "plantmeat",
+  "rn": "Carne folhosa",
+  "ren": "Leafy Meat",
+  "prod": "plantmeat_cooked",
+  "pn": "Carne folhosa cozida",
+  "pen": "Cooked Leafy Meat",
+  "r": {
+   "h": 0,
+   "u": 12.5,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 18.75,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "pomegranate",
+  "rn": "Romã",
+  "ren": "Pomegranate",
+  "prod": "pomegranate_cooked",
+  "pn": "Romã cortada",
+  "pen": "Sliced Pomegranate",
+  "r": {
+   "h": 3,
+   "u": 9.38,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 20,
+   "u": 12.5,
+   "s": 0,
+   "p": 3.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "pomegranate_seeds",
+  "rn": "Sementes Anemocóricas",
+  "ren": "Windblown Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "pondeel",
+  "rn": "Enguia Viva",
+  "ren": "Live Eel",
+  "prod": "eel_cooked",
+  "pn": "Enguia assada",
+  "pen": "Cooked Eel",
+  "r": {
+   "h": 3,
+   "u": 9.38,
+   "s": 0,
+   "p": 3.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "pondfish",
+  "rn": "Peixe de Água Doce",
+  "ren": "Freshwater Fish",
+  "prod": "fishmeat_small_cooked",
+  "pn": "Naco peixe cozido",
+  "pen": "Cooked Fish Morsel",
+  "r": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 3.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "potato",
+  "rn": "Batata",
+  "ren": "Potato",
+  "prod": "potato_cooked",
+  "pn": "Batata Torrada",
+  "pen": "Roasted Potato",
+  "r": {
+   "h": -3,
+   "u": 12.5,
+   "s": -5,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 20,
+   "u": 25,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "potato_seeds",
+  "rn": "Sementes fofinhas",
+  "ren": "Fluffy Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "puffin",
+  "rn": "Puffin",
+  "ren": "Puffin",
+  "prod": "cookedsmallmeat",
+  "pn": "Naco cozido",
+  "pen": "Cooked Morsel",
+  "r": {
+   "h": null,
+   "u": null,
+   "s": null,
+   "p": null,
+   "ty": null,
+   "edible": false
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "pumpkin",
+  "rn": "Abóbora",
+  "ren": "Pumpkin",
+  "prod": "pumpkin_cooked",
+  "pn": "Abóbora quente",
+  "pen": "Hot Pumpkin",
+  "r": {
+   "h": 3,
+   "u": 37.5,
+   "s": 0,
+   "p": 20.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 37.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "pumpkin_seeds",
+  "rn": "Sementes Pontiagudas",
+  "ren": "Sharp Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "red_cap",
+  "rn": "Cogumelo vermelho",
+  "ren": "Red Cap",
+  "prod": "red_cap_cooked",
+  "pn": "Cogumelo vermelho assado",
+  "pen": "Cooked Red Cap",
+  "r": {
+   "h": -20,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 0,
+   "s": -10,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "robin",
+  "rn": "Cardeal",
+  "ren": "Redbird",
+  "prod": "cookedsmallmeat",
+  "pn": "Naco cozido",
+  "pen": "Cooked Morsel",
+  "r": {
+   "h": null,
+   "u": null,
+   "s": null,
+   "p": null,
+   "ty": null,
+   "edible": false
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "robin_winter",
+  "rn": "Cardeal invernal",
+  "ren": "Snowbird",
+  "prod": "cookedsmallmeat",
+  "pn": "Naco cozido",
+  "pen": "Cooked Morsel",
+  "r": {
+   "h": null,
+   "u": null,
+   "s": null,
+   "p": null,
+   "ty": null,
+   "edible": false
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "rock_avocado_fruit_ripe",
+  "rn": "Fruta Rochosa Madura",
+  "ren": "Ripe Stone Fruit",
+  "prod": "rock_avocado_fruit_ripe_cooked",
+  "pn": "Fruta Rochosa Cozida",
+  "pen": "Cooked Stone Fruit",
+  "r": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 3.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 3,
+   "u": 12.5,
+   "s": 0,
+   "p": 2.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "seeds",
+  "rn": "Sementes",
+  "ren": "Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0,
+   "u": 4.69,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "smallmeat",
+  "rn": "Naco de carne",
+  "ren": "Morsel",
+  "prod": "cookedsmallmeat",
+  "pn": "Naco cozido",
+  "pen": "Cooked Morsel",
+  "r": {
+   "h": 0,
+   "u": 12.5,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "smallmeat",
+  "rn": "Naco de carne",
+  "ren": "Morsel",
+  "prod": "smallmeat_dried",
+  "pn": "Charque pequeno",
+  "pen": "Small Jerky",
+  "r": {
+   "h": 0,
+   "u": 12.5,
+   "s": -10,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 12.5,
+   "s": 10,
+   "p": 20.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "varal",
+  "raw": "succulent_picked",
+  "rn": "Suculenta",
+  "ren": "Succulent",
+  "prod": "succulent_picked_dried",
+  "pn": "Suculenta Seca",
+  "pen": "Dried Succulent",
+  "r": {
+   "h": 1,
+   "u": 0,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 0,
+   "s": 0,
+   "p": null,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "tallbirdegg",
+  "rn": "Ovo de passaralto",
+  "ren": "Tallbird Egg",
+  "prod": "tallbirdegg_cooked",
+  "pn": "Ovo de passaralto cozido",
+  "pen": "Fried Tallbird Egg",
+  "r": {
+   "h": 3,
+   "u": 25,
+   "s": 0,
+   "p": null,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 0,
+   "u": 37.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "tallbirdegg_cracked",
+  "rn": "Ovo de passaralto eclodindo",
+  "ren": "Hatching Tallbird Egg",
+  "prod": "tallbirdegg_cooked",
+  "pn": "Ovo de passaralto cozido",
+  "pen": "Fried Tallbird Egg",
+  "r": {
+   "h": 3,
+   "u": 25,
+   "s": 0,
+   "p": null,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 0,
+   "u": 37.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "varal",
+  "raw": "tillweed",
+  "rn": "Aradervas",
+  "ren": "Tillweeds",
+  "prod": "tillweed_dried",
+  "pn": "Araderva Seca",
+  "pen": "Dried Tillweed",
+  "r": {
+   "h": 1,
+   "u": 0,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 8,
+   "u": 0,
+   "s": 0,
+   "p": null,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": 1.0
+ },
+ {
+  "m": "fogueira",
+  "raw": "tomato",
+  "rn": "Raiz de toma",
+  "ren": "Toma Root",
+  "prod": "tomato_cooked",
+  "pn": "Raiz de Tomate Assado",
+  "pen": "Roasted Toma Root",
+  "r": {
+   "h": 3,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 20,
+   "u": 12.5,
+   "s": 0,
+   "p": 10.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "tomato_seeds",
+  "rn": "Sementes espinhentas",
+  "ren": "Spiky Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "trunk_summer",
+  "rn": "Tromba de coalafante",
+  "ren": "Koalefant Trunk",
+  "prod": "trunk_cooked",
+  "pn": "Filé de tromba de coalafante",
+  "pen": "Koalefant Trunk Steak",
+  "r": {
+   "h": 30,
+   "u": 37.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 40,
+   "u": 75,
+   "s": 0,
+   "p": 15.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "trunk_winter",
+  "rn": "Tromba de coalafante invernal",
+  "ren": "Winter Koalefant Trunk",
+  "prod": "trunk_cooked",
+  "pn": "Filé de tromba de coalafante",
+  "pen": "Koalefant Trunk Steak",
+  "r": {
+   "h": 30,
+   "u": 37.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 40,
+   "u": 75,
+   "s": 0,
+   "p": 15.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "watermelon",
+  "rn": "Melancia",
+  "ren": "Watermelon",
+  "prod": "watermelon_cooked",
+  "pn": "Churrasco de melancia",
+  "pen": "Grilled Watermelon",
+  "r": {
+   "h": 3,
+   "u": 12.5,
+   "s": 5,
+   "p": 6.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 7.5,
+   "p": 3.0,
+   "ty": "VEGGIE",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "watermelon_seeds",
+  "rn": "Sementes Quadradas",
+  "ren": "Square Seeds",
+  "prod": "seeds_cooked",
+  "pn": "Sementes assadas",
+  "pen": "Toasted Seeds",
+  "r": {
+   "h": 0.5,
+   "u": 9.38,
+   "s": 0,
+   "p": 40.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 4.69,
+   "s": 0,
+   "p": 10.0,
+   "ty": "SEEDS",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "wobster_sheller_dead",
+  "rn": "Lagosta morta",
+  "ren": "Dead Wobster",
+  "prod": "wobster_sheller_dead_cooked",
+  "pn": "Lagosta deliciosa",
+  "pen": "Delicious Wobster",
+  "r": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 3.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ },
+ {
+  "m": "fogueira",
+  "raw": "wobster_sheller_land",
+  "rn": "Lagosta",
+  "ren": "Wobster",
+  "prod": "wobster_sheller_dead_cooked",
+  "pn": "Lagosta deliciosa",
+  "pen": "Delicious Wobster",
+  "r": {
+   "h": null,
+   "u": null,
+   "s": null,
+   "p": null,
+   "ty": null,
+   "edible": false
+  },
+  "c": {
+   "h": 1,
+   "u": 12.5,
+   "s": 0,
+   "p": 6.0,
+   "ty": "MEAT",
+   "edible": true
+  },
+  "t": null
+ }
+]
